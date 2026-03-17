@@ -140,6 +140,8 @@ def load_crypto_market_chart(coin_id="bitcoin", days=90):
         )
         r = _get(url)
         data = r.json()
+        if "prices" not in data or "total_volumes" not in data:
+            return pd.DataFrame()
         prices = pd.DataFrame(data["prices"], columns=["ts", "Price"])
         volumes = pd.DataFrame(data["total_volumes"], columns=["ts", "Volume"])
         df = prices.merge(volumes, on="ts")
@@ -168,90 +170,105 @@ def _read_csv(path, **kwargs):
 
 @st.cache_data
 def load_terrorism():
-    import os
-    base = os.path.abspath(os.path.join(os.path.dirname(__file__), "../.."))
-    path = os.path.join(base, "projects", "terrorism", "data", "globalterrorismdb_utf8.csv")
-    cols = ["iyear", "imonth", "iday", "country_txt", "region_txt", "city",
-            "latitude", "longitude", "attacktype1_txt", "targtype1_txt",
-            "gname", "nkill", "nwound", "success"]
-    df = _read_csv(path, usecols=cols, low_memory=False)
-    if df.empty:
+    try:
+        import os
+        base = os.path.abspath(os.path.join(os.path.dirname(__file__), "../.."))
+        path = os.path.join(base, "projects", "terrorism", "data", "globalterrorismdb_utf8.csv")
+        cols = ["iyear", "imonth", "iday", "country_txt", "region_txt", "city",
+                "latitude", "longitude", "attacktype1_txt", "targtype1_txt",
+                "gname", "nkill", "nwound", "success"]
+        df = _read_csv(path, usecols=cols, low_memory=False)
+        if df.empty:
+            return df
+        df = df.rename(columns={
+            "iyear": "Year", "imonth": "Month", "iday": "Day",
+            "country_txt": "Country", "region_txt": "Region", "city": "City",
+            "latitude": "Lat", "longitude": "Lon",
+            "attacktype1_txt": "Attack Type", "targtype1_txt": "Target Type",
+            "gname": "Group", "nkill": "Killed", "nwound": "Wounded", "success": "Success"
+        })
+        df["Killed"] = pd.to_numeric(df["Killed"], errors="coerce").fillna(0)
+        df["Wounded"] = pd.to_numeric(df["Wounded"], errors="coerce").fillna(0)
+        df["Casualties"] = df["Killed"] + df["Wounded"]
         return df
-    df = df.rename(columns={
-        "iyear": "Year", "imonth": "Month", "iday": "Day",
-        "country_txt": "Country", "region_txt": "Region", "city": "City",
-        "latitude": "Lat", "longitude": "Lon",
-        "attacktype1_txt": "Attack Type", "targtype1_txt": "Target Type",
-        "gname": "Group", "nkill": "Killed", "nwound": "Wounded", "success": "Success"
-    })
-    df["Killed"] = pd.to_numeric(df["Killed"], errors="coerce").fillna(0)
-    df["Wounded"] = pd.to_numeric(df["Wounded"], errors="coerce").fillna(0)
-    df["Casualties"] = df["Killed"] + df["Wounded"]
-    return df
+    except Exception:
+        return pd.DataFrame()
 
 
 @st.cache_data
 def load_universities():
-    import os
-    base = os.path.abspath(os.path.join(os.path.dirname(__file__), "../.."))
-    path = os.path.join(base, "projects", "universities", "data", "cwurData.csv")
-    return _read_csv(path)
+    try:
+        import os
+        base = os.path.abspath(os.path.join(os.path.dirname(__file__), "../.."))
+        path = os.path.join(base, "projects", "universities", "data", "cwurData.csv")
+        return _read_csv(path)
+    except Exception:
+        return pd.DataFrame()
 
 
 @st.cache_data
 def load_demographics():
-    import os
-    base = os.path.abspath(os.path.join(os.path.dirname(__file__), "../.."))
-    path = os.path.join(base, "projects", "demographics", "data", "adult.csv")
-    df = _read_csv(path)
-    if df.empty:
+    try:
+        import os
+        base = os.path.abspath(os.path.join(os.path.dirname(__file__), "../.."))
+        path = os.path.join(base, "projects", "demographics", "data", "adult.csv")
+        df = _read_csv(path)
+        if df.empty:
+            return df
+        df.columns = [c.strip() for c in df.columns]
+        for c in df.select_dtypes("object").columns:
+            df[c] = df[c].str.strip()
         return df
-    df.columns = [c.strip() for c in df.columns]
-    for c in df.select_dtypes("object").columns:
-        df[c] = df[c].str.strip()
-    return df
+    except Exception:
+        return pd.DataFrame()
 
 
 @st.cache_data
 def load_uber():
-    import os
-    base = os.path.abspath(os.path.join(os.path.dirname(__file__), "../.."))
-    path = os.path.join(base, "projects", "uber", "data", "uber_trips.csv")
-    df = _read_csv(path)
-    if df.empty:
+    try:
+        import os
+        base = os.path.abspath(os.path.join(os.path.dirname(__file__), "../.."))
+        path = os.path.join(base, "projects", "uber", "data", "uber_trips.csv")
+        df = _read_csv(path)
+        if df.empty:
+            return df
+        df.columns = [c.strip() for c in df.columns]
+        if "START_DATE*" not in df.columns:
+            return pd.DataFrame()
+        df["START_DATE*"] = pd.to_datetime(df["START_DATE*"], format="%m/%d/%Y %H:%M", errors="coerce")
+        df["END_DATE*"] = pd.to_datetime(df["END_DATE*"], format="%m/%d/%Y %H:%M", errors="coerce")
+        df = df.dropna(subset=["START_DATE*", "END_DATE*"])
+        df["HOUR"] = df["START_DATE*"].dt.hour
+        df["DAY"] = df["START_DATE*"].dt.day
+        df["DAY_OF_WEEK"] = df["START_DATE*"].dt.dayofweek
+        df["MONTH"] = df["START_DATE*"].dt.month
+        df["WEEKDAY"] = df["START_DATE*"].dt.day_name()
+        df["MONTH_NAME"] = df["START_DATE*"].dt.month_name()
+        travelling_time = (df["END_DATE*"] - df["START_DATE*"]).dt.seconds / 3600
+        travelling_time = travelling_time.replace(0, float("nan"))
+        df["TRAVELLING_TIME"] = travelling_time
+        df["MILES*"] = pd.to_numeric(df["MILES*"], errors="coerce")
+        df["SPEED"] = df["MILES*"] / df["TRAVELLING_TIME"]
         return df
-    df.columns = [c.strip() for c in df.columns]
-    if "START_DATE*" not in df.columns:
+    except Exception:
         return pd.DataFrame()
-    df["START_DATE*"] = pd.to_datetime(df["START_DATE*"], format="%m/%d/%Y %H:%M", errors="coerce")
-    df["END_DATE*"] = pd.to_datetime(df["END_DATE*"], format="%m/%d/%Y %H:%M", errors="coerce")
-    df = df.dropna(subset=["START_DATE*", "END_DATE*"])
-    df["HOUR"] = df["START_DATE*"].dt.hour
-    df["DAY"] = df["START_DATE*"].dt.day
-    df["DAY_OF_WEEK"] = df["START_DATE*"].dt.dayofweek
-    df["MONTH"] = df["START_DATE*"].dt.month
-    df["WEEKDAY"] = df["START_DATE*"].dt.day_name()
-    df["MONTH_NAME"] = df["START_DATE*"].dt.month_name()
-    travelling_time = (df["END_DATE*"] - df["START_DATE*"]).dt.seconds / 3600
-    travelling_time = travelling_time.replace(0, float("nan"))
-    df["TRAVELLING_TIME"] = travelling_time
-    df["MILES*"] = pd.to_numeric(df["MILES*"], errors="coerce")
-    df["SPEED"] = df["MILES*"] / df["TRAVELLING_TIME"]
-    return df
 
 
 # ── Zomato ────────────────────────────────────────────────────────────────────
 
 @st.cache_data
 def load_zomato():
-    import os
-    base = os.path.abspath(os.path.join(os.path.dirname(__file__), "../.."))
-    path = os.path.join(base, "projects", "zomato", "data", "ZOMATO_FINAL.csv")
-    df = _read_csv(path)
-    if df.empty:
+    try:
+        import os
+        base = os.path.abspath(os.path.join(os.path.dirname(__file__), "../.."))
+        path = os.path.join(base, "projects", "zomato", "data", "ZOMATO_FINAL.csv")
+        df = _read_csv(path)
+        if df.empty:
+            return df
+        df.columns = [c.strip() for c in df.columns]
+        for col in ["aggregate_rating", "average_cost_for_two", "votes", "latitude", "longitude"]:
+            if col in df.columns:
+                df[col] = pd.to_numeric(df[col], errors="coerce")
         return df
-    df.columns = [c.strip() for c in df.columns]
-    for col in ["aggregate_rating", "average_cost_for_two", "votes", "latitude", "longitude"]:
-        if col in df.columns:
-            df[col] = pd.to_numeric(df[col], errors="coerce")
-    return df
+    except Exception:
+        return pd.DataFrame()
