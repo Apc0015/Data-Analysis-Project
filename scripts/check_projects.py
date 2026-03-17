@@ -20,6 +20,10 @@ for p in projects:
             continue
         for src in cfg.get('data_sources', []):
             sres = {'name': src.get('name'), 'type': src.get('type'), 'path': src.get('path')}
+            if src.get('type') == 'crypto_tickers':
+                sres['status'] = 'tickers: ' + ','.join(src.get('tickers', []))
+                res['sources'].append(sres)
+                continue
             path = src.get('path')
             if not path:
                 sres['status'] = 'no path'

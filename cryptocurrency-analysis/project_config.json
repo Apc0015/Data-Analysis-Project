@@ -1,16 +1,10 @@
 {
   "data_sources": [
     {
-      "name": "Bitcoin (remote example)",
-      "type": "remote_csv",
-      "path": "https://raw.githubusercontent.com/datasets/bitcoin/master/data/bitcoin.csv",
-      "refresh_seconds": 3600
-    },
-    {
-      "name": "Ethereum (remote example)",
-      "type": "remote_csv",
-      "path": "https://raw.githubusercontent.com/datasets/ethereum/master/data/ethereum.csv",
-      "refresh_seconds": 3600
+      "name": "Live tickers",
+      "type": "crypto_tickers",
+      "tickers": ["BTC-USD", "ETH-USD"],
+      "refresh_seconds": 300
     }
   ]
 }

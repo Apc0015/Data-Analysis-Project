@@ -3,7 +3,7 @@
     {
       "name": "Global Terrorism DB (local)",
       "type": "local_csv",
-      "path": "Global-Terrorism-Data-analysis-main/globalterrorismdb_0718dist.csv"
+      "path": "Global-Terrorism-Data-analysis-main/globalterrorismdb_utf8.csv"
     }
   ]
 }

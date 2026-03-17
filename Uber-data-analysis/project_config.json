@@ -1,9 +1,9 @@
 {
   "data_sources": [
     {
-      "name": "Placeholder - add dataset",
-      "type": "none",
-      "note": "Place a CSV in the project folder and set type to local_csv with the path"
+      "name": "Sample Uber trips (local)",
+      "type": "local_csv",
+      "path": "Uber-data-analysis/uber_sample.csv"
     }
   ]
 }
