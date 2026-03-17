@@ -1,7 +1,28 @@
 import io
+import time
 import requests
 import pandas as pd
 import streamlit as st
+
+_HEADERS = {
+    "User-Agent": "Mozilla/5.0 (compatible; DataFlowAnalytics/1.0)",
+    "Accept": "application/json",
+}
+
+
+def _get(url, retries=3, **kwargs):
+    """requests.get with retries and back-off on 429."""
+    kwargs.setdefault("timeout", 20)
+    kwargs.setdefault("headers", _HEADERS)
+    for attempt in range(retries):
+        r = requests.get(url, **kwargs)
+        if r.status_code == 429:
+            time.sleep(2 ** attempt)
+            continue
+        r.raise_for_status()
+        return r
+    r.raise_for_status()
+    return r
 
 # ── COVID-19 (disease.sh) ────────────────────────────────────────────────────
 
@@ -9,8 +30,7 @@ import streamlit as st
 def load_covid_world():
     """All countries — latest totals."""
     try:
-        r = requests.get("https://disease.sh/v3/covid-19/countries?yesterday=false&sort=cases", timeout=15)
-        r.raise_for_status()
+        r = _get("https://disease.sh/v3/covid-19/countries?yesterday=false&sort=cases")
         data = r.json()
         df = pd.json_normalize(data)
         df = df.rename(columns={
@@ -47,8 +67,7 @@ def load_covid_world():
 def load_covid_global():
     """Single global summary row."""
     try:
-        r = requests.get("https://disease.sh/v3/covid-19/all", timeout=15)
-        r.raise_for_status()
+        r = _get("https://disease.sh/v3/covid-19/all")
         return r.json()
     except Exception:
         return {}
@@ -59,8 +78,7 @@ def load_covid_historical(country="all", days=90):
     """Historical timeline for a country or 'all'."""
     try:
         url = f"https://disease.sh/v3/covid-19/historical/{country}?lastdays={days}"
-        r = requests.get(url, timeout=15)
-        r.raise_for_status()
+        r = _get(url)
         data = r.json()
         timeline = data.get("timeline", data)
         cases = pd.Series(timeline.get("cases", {}), name="Cases")
@@ -78,7 +96,7 @@ def load_covid_historical(country="all", days=90):
 
 # ── Cryptocurrency (CoinGecko) ───────────────────────────────────────────────
 
-@st.cache_data(ttl=60)
+@st.cache_data(ttl=300)
 def load_crypto_prices(coin_ids="bitcoin,ethereum,dogecoin,solana,binancecoin"):
     """Current prices + 24h change."""
     try:
@@ -88,8 +106,7 @@ def load_crypto_prices(coin_ids="bitcoin,ethereum,dogecoin,solana,binancecoin"):
             "&order=market_cap_desc&per_page=20&page=1"
             "&sparkline=false&price_change_percentage=24h,7d,30d"
         )
-        r = requests.get(url, timeout=15)
-        r.raise_for_status()
+        r = _get(url)
         df = pd.json_normalize(r.json())
         return df
     except Exception:
@@ -104,8 +121,7 @@ def load_crypto_history(coin_id="bitcoin", days=90):
             f"https://api.coingecko.com/api/v3/coins/{coin_id}/ohlc"
             f"?vs_currency=usd&days={days}"
         )
-        r = requests.get(url, timeout=15)
-        r.raise_for_status()
+        r = _get(url)
         data = r.json()
         df = pd.DataFrame(data, columns=["timestamp", "Open", "High", "Low", "Close"])
         df["Date"] = pd.to_datetime(df["timestamp"], unit="ms")
@@ -122,8 +138,7 @@ def load_crypto_market_chart(coin_id="bitcoin", days=90):
             f"https://api.coingecko.com/api/v3/coins/{coin_id}/market_chart"
             f"?vs_currency=usd&days={days}"
         )
-        r = requests.get(url, timeout=15)
-        r.raise_for_status()
+        r = _get(url)
         data = r.json()
         prices = pd.DataFrame(data["prices"], columns=["ts", "Price"])
         volumes = pd.DataFrame(data["total_volumes"], columns=["ts", "Volume"])
