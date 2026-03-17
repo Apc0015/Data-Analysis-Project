@@ -9,12 +9,11 @@ __pycache__/
 # macOS
 .DS_Store
 
-# Streamlit local settings
-.streamlit/
-
 # Jupyter checkpoints
 .ipynb_checkpoints/
 
-# Data files (optional: remove if you want to include small CSVs)
+# Large data files (terrorism DB is 155MB — exceeds GitHub limit)
+projects/terrorism/data/globalterrorismdb_utf8.csv
+
+# Exclude old scattered root-level data dirs
 data/
-*.csv
