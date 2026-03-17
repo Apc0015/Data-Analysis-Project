@@ -175,6 +175,8 @@ def load_terrorism():
             "latitude", "longitude", "attacktype1_txt", "targtype1_txt",
             "gname", "nkill", "nwound", "success"]
     df = _read_csv(path, usecols=cols, low_memory=False)
+    if df.empty:
+        return df
     df = df.rename(columns={
         "iyear": "Year", "imonth": "Month", "iday": "Day",
         "country_txt": "Country", "region_txt": "Region", "city": "City",
@@ -193,8 +195,7 @@ def load_universities():
     import os
     base = os.path.abspath(os.path.join(os.path.dirname(__file__), "../.."))
     path = os.path.join(base, "projects", "universities", "data", "cwurData.csv")
-    df = _read_csv(path)
-    return df
+    return _read_csv(path)
 
 
 @st.cache_data
@@ -203,8 +204,9 @@ def load_demographics():
     base = os.path.abspath(os.path.join(os.path.dirname(__file__), "../.."))
     path = os.path.join(base, "projects", "demographics", "data", "adult.csv")
     df = _read_csv(path)
+    if df.empty:
+        return df
     df.columns = [c.strip() for c in df.columns]
-    # strip string values
     for c in df.select_dtypes("object").columns:
         df[c] = df[c].str.strip()
     return df
@@ -213,11 +215,14 @@ def load_demographics():
 @st.cache_data
 def load_uber():
     import os
-    import calendar
     base = os.path.abspath(os.path.join(os.path.dirname(__file__), "../.."))
     path = os.path.join(base, "projects", "uber", "data", "uber_trips.csv")
     df = _read_csv(path)
+    if df.empty:
+        return df
     df.columns = [c.strip() for c in df.columns]
+    if "START_DATE*" not in df.columns:
+        return pd.DataFrame()
     df["START_DATE*"] = pd.to_datetime(df["START_DATE*"], format="%m/%d/%Y %H:%M", errors="coerce")
     df["END_DATE*"] = pd.to_datetime(df["END_DATE*"], format="%m/%d/%Y %H:%M", errors="coerce")
     df = df.dropna(subset=["START_DATE*", "END_DATE*"])
@@ -227,7 +232,7 @@ def load_uber():
     df["MONTH"] = df["START_DATE*"].dt.month
     df["WEEKDAY"] = df["START_DATE*"].dt.day_name()
     df["MONTH_NAME"] = df["START_DATE*"].dt.month_name()
-    travelling_time = (df["END_DATE*"] - df["START_DATE*"]).dt.seconds / 3600  # hours
+    travelling_time = (df["END_DATE*"] - df["START_DATE*"]).dt.seconds / 3600
     travelling_time = travelling_time.replace(0, float("nan"))
     df["TRAVELLING_TIME"] = travelling_time
     df["MILES*"] = pd.to_numeric(df["MILES*"], errors="coerce")
@@ -243,10 +248,10 @@ def load_zomato():
     base = os.path.abspath(os.path.join(os.path.dirname(__file__), "../.."))
     path = os.path.join(base, "projects", "zomato", "data", "ZOMATO_FINAL.csv")
     df = _read_csv(path)
+    if df.empty:
+        return df
     df.columns = [c.strip() for c in df.columns]
-    df["aggregate_rating"] = pd.to_numeric(df["aggregate_rating"], errors="coerce")
-    df["average_cost_for_two"] = pd.to_numeric(df["average_cost_for_two"], errors="coerce")
-    df["votes"] = pd.to_numeric(df["votes"], errors="coerce")
-    df["latitude"] = pd.to_numeric(df["latitude"], errors="coerce")
-    df["longitude"] = pd.to_numeric(df["longitude"], errors="coerce")
+    for col in ["aggregate_rating", "average_cost_for_two", "votes", "latitude", "longitude"]:
+        if col in df.columns:
+            df[col] = pd.to_numeric(df[col], errors="coerce")
     return df

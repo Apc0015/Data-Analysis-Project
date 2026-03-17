@@ -1,0 +1,1157 @@
+START_DATE*,END_DATE*,CATEGORY*,START*,STOP*,MILES*,PURPOSE*
+06/10/2016 10:15,06/10/2016 10:20,Business,Cary,Cary,2.1,Commute
+11/03/2016 15:49,11/03/2016 16:15,Business,Other,Other,10.4,Airport/Travel
+04/15/2016 22:38,04/15/2016 22:52,Personal,Other,Other,3.4,Airport/Travel
+11/26/2016 07:50,11/26/2016 08:32,Personal,Cary,Garner,8.6,Customer Visit
+07/16/2016 09:15,07/16/2016 09:28,Business,Morrisville,Raleigh,3.3,Meeting
+01/07/2016 17:59,01/07/2016 18:06,Personal,Raleigh,Garner,2.3,Customer Visit
+08/03/2016 17:34,08/03/2016 17:55,Personal,Raleigh,Other,4.8,Errand/Supplies
+01/09/2016 08:00,01/09/2016 08:05,Personal,Cary,Other,2.0,Customer Visit
+07/22/2016 22:18,07/22/2016 22:34,Personal,Other,Whitebridge,4.3,Charity
+08/04/2016 18:05,08/04/2016 18:21,Business,Durham,Morrisville,4.4,Meal/Entertain
+05/22/2016 08:19,05/22/2016 08:25,Business,Other,Morrisville,1.3,Meal/Entertain
+10/01/2016 16:25,10/01/2016 16:42,Business,Durham,Research Triangle Park,3.9,Customer Visit
+06/07/2016 19:46,06/07/2016 20:20,Business,Apex,Other,11.2,Airport/Travel
+02/14/2016 19:07,02/14/2016 19:19,Personal,Cary,Whitebridge,3.0,Meeting
+12/07/2016 11:07,12/07/2016 11:09,Personal,Raleigh,Other,1.0,Airport/Travel
+03/24/2016 21:22,03/24/2016 21:37,Business,Other,Research Triangle Park,3.5,Errand/Supplies
+03/26/2016 17:08,03/26/2016 17:34,Business,Other,Morrisville,5.6,Between Offices
+01/16/2016 16:51,01/16/2016 17:02,Business,Garner,Whitebridge,2.9,Errand/Supplies
+12/30/2016 08:31,12/30/2016 08:41,Business,Research Triangle Park,Other,3.0,Customer Visit
+10/17/2016 11:23,10/17/2016 11:30,Business,Other,Cary,1.6,Meeting
+12/11/2016 09:14,12/11/2016 09:27,Personal,Whitebridge,Cary,5.5,Airport/Travel
+05/05/2016 07:30,05/05/2016 07:42,Business,Whitebridge,Cary,2.5,Errand/Supplies
+01/19/2016 19:14,01/19/2016 19:22,Personal,Other,Research Triangle Park,2.3,Meeting
+05/18/2016 08:36,05/18/2016 08:45,Business,Other,Durham,2.6,Charity
+04/01/2016 13:51,04/01/2016 13:59,Personal,Other,Cary,3.4,Errand/Supplies
+02/05/2016 20:55,02/05/2016 21:04,Business,Cary,Cary,2.1,Moving
+02/14/2016 20:00,02/14/2016 20:08,Personal,Chapel Hill,Research Triangle Park,2.5,Moving
+11/14/2016 13:29,11/14/2016 13:41,Personal,Other,Durham,2.5,Meal/Entertain
+10/06/2016 13:09,10/06/2016 13:12,Business,Morrisville,Chapel Hill,1.0,Errand/Supplies
+10/04/2016 17:40,10/04/2016 18:13,Business,Whitebridge,Research Triangle Park,7.1,Commute
+01/01/2016 18:54,01/01/2016 19:11,Business,Whitebridge,Whitebridge,5.5,Meeting
+09/28/2016 13:26,09/28/2016 13:34,Business,Morrisville,Cary,3.3,Meeting
+12/30/2016 14:05,12/30/2016 14:08,Business,Whitebridge,Raleigh,1.1,Meeting
+07/30/2016 17:29,07/30/2016 18:04,Business,Apex,Garner,13.2,Meeting
+09/15/2016 10:40,09/15/2016 10:58,Business,Durham,Unknown Location,6.7,Meeting
+02/01/2016 19:42,02/01/2016 20:19,Personal,Other,Garner,12.1,Airport/Travel
+06/10/2016 18:44,06/10/2016 19:06,Business,Morrisville,Cary,6.9,Meeting
+05/19/2016 13:04,05/19/2016 13:34,Personal,Unknown Location,Cary,10.6,Meeting
+02/25/2016 10:06,02/25/2016 10:11,Personal,Cary,Other,1.6,Between Offices
+03/02/2016 17:49,03/02/2016 17:54,Business,Cary,Other,1.8,Customer Visit
+03/02/2016 08:10,03/02/2016 08:31,Business,Cary,Cary,6.5,Airport/Travel
+01/21/2016 12:53,01/21/2016 13:14,Business,Durham,Durham,7.5,Meal/Entertain
+07/01/2016 18:32,07/01/2016 18:35,Business,Apex,Other,1.2,Meal/Entertain
+01/16/2016 18:54,01/16/2016 19:07,Business,Research Triangle Park,Cary,3.0,Meeting
+02/18/2016 20:06,02/18/2016 20:24,Personal,Other,Other,6.4,Meeting
+02/01/2016 13:08,02/01/2016 13:13,Business,Apex,Morrisville,1.7,Moving
+10/25/2016 14:58,10/25/2016 15:14,Personal,Cary,Cary,6.6,Meeting
+04/11/2016 20:51,04/11/2016 20:58,Business,Apex,Durham,1.5,Meeting
+03/03/2016 07:29,03/03/2016 07:34,Personal,Other,Durham,1.2,Between Offices
+07/21/2016 21:01,07/21/2016 21:10,Business,Other,Unknown Location,2.6,Customer Visit
+04/19/2016 11:17,04/19/2016 11:26,Business,Research Triangle Park,Apex,2.1,Errand/Supplies
+11/10/2016 13:41,11/10/2016 13:48,Business,Morrisville,Whitebridge,2.2,Meeting
+09/02/2016 07:05,09/02/2016 07:10,Business,Other,Other,2.1,Errand/Supplies
+11/25/2016 22:15,11/25/2016 22:34,Personal,Apex,Cary,4.3,Airport/Travel
+07/14/2016 17:30,07/14/2016 17:43,Business,Unknown Location,Other,3.6,Airport/Travel
+09/14/2016 16:24,09/14/2016 16:29,Personal,Cary,Morrisville,2.1,Airport/Travel
+04/22/2016 06:57,04/22/2016 07:17,Personal,Other,Durham,6.5,Customer Visit
+09/28/2016 17:49,09/28/2016 18:01,Business,Other,Garner,3.9,Customer Visit
+02/21/2016 13:42,02/21/2016 13:49,Personal,Morrisville,Durham,1.9,Airport/Travel
+04/22/2016 18:22,04/22/2016 19:12,Business,Whitebridge,Unknown Location,10.1,Airport/Travel
+03/31/2016 13:37,03/31/2016 13:46,Personal,Apex,Whitebridge,2.3,Meal/Entertain
+10/29/2016 06:45,10/29/2016 07:09,Personal,Whitebridge,Other,5.0,Errand/Supplies
+03/13/2016 12:53,03/13/2016 14:06,Business,Apex,Unknown Location,15.7,Meeting
+10/04/2016 15:11,10/04/2016 15:19,Business,Other,Apex,3.2,Between Offices
+11/04/2016 13:01,11/04/2016 13:09,Business,Other,Raleigh,3.5,Meal/Entertain
+03/07/2016 16:45,03/07/2016 16:52,Personal,Durham,Raleigh,1.7,Errand/Supplies
+01/31/2016 06:09,01/31/2016 06:27,Business,Other,Morrisville,3.9,Meeting
+09/26/2016 17:04,09/26/2016 17:16,Business,Apex,Garner,2.6,Airport/Travel
+10/27/2016 09:21,10/27/2016 09:27,Business,Unknown Location,Chapel Hill,2.2,Meal/Entertain
+08/11/2016 21:41,08/11/2016 21:50,Business,Whitebridge,Raleigh,2.3,Errand/Supplies
+12/21/2016 17:14,12/21/2016 17:35,Personal,Apex,Cary,4.7,Meeting
+06/06/2016 15:08,06/06/2016 15:12,Business,Apex,Other,1.7,Between Offices
+07/19/2016 07:11,07/19/2016 07:30,Business,Unknown Location,Garner,4.1,Meeting
+04/23/2016 09:59,04/23/2016 10:09,Business,Raleigh,Morrisville,3.3,Airport/Travel
+05/01/2016 17:20,05/01/2016 17:27,Personal,Whitebridge,Cary,1.6,Airport/Travel
+12/28/2016 16:28,12/28/2016 16:31,Business,Other,Garner,1.0,Meal/Entertain
+06/28/2016 14:50,06/28/2016 14:53,Business,Other,Unknown Location,1.4,Meal/Entertain
+08/12/2016 19:10,08/12/2016 19:40,Business,Other,Other,8.2,Airport/Travel
+06/28/2016 18:06,06/28/2016 18:36,Personal,Cary,Raleigh,6.9,Meal/Entertain
+11/29/2016 13:10,11/29/2016 13:23,Personal,Morrisville,Unknown Location,3.0,Customer Visit
+05/30/2016 06:20,05/30/2016 06:25,Personal,Morrisville,Raleigh,2.0,Customer Visit
+03/28/2016 18:10,03/28/2016 18:30,Business,Durham,Morrisville,5.4,Customer Visit
+06/22/2016 21:45,06/22/2016 21:50,Personal,Morrisville,Other,1.1,Customer Visit
+11/06/2016 19:10,11/06/2016 19:13,Business,Cary,Other,1.2,Moving
+07/28/2016 14:42,07/28/2016 14:48,Business,Other,Durham,2.1,Meeting
+07/20/2016 21:09,07/20/2016 21:12,Personal,Other,Morrisville,1.2,Charity
+05/30/2016 21:12,05/30/2016 21:15,Business,Cary,Research Triangle Park,1.3,Between Offices
+02/11/2016 21:54,02/11/2016 22:00,Personal,Unknown Location,Apex,1.4,Meal/Entertain
+09/07/2016 14:05,09/07/2016 14:20,Business,Durham,Cary,4.4,Meeting
+07/14/2016 17:11,07/14/2016 17:20,Personal,Chapel Hill,Apex,3.0,Meal/Entertain
+05/14/2016 13:53,05/14/2016 13:58,Business,Garner,Unknown Location,2.0,Meal/Entertain
+02/13/2016 17:51,02/13/2016 18:08,Business,Other,Morrisville,3.6,Moving
+04/26/2016 07:53,04/26/2016 08:02,Business,Other,Other,2.6,Commute
+12/17/2016 21:36,12/17/2016 22:05,Business,Chapel Hill,Research Triangle Park,8.1,Meeting
+07/21/2016 07:32,07/21/2016 07:46,Personal,Whitebridge,Unknown Location,3.8,Airport/Travel
+12/12/2016 10:07,12/12/2016 10:46,Personal,Raleigh,Garner,10.9,Meal/Entertain
+04/18/2016 12:08,04/18/2016 12:10,Personal,Whitebridge,Other,1.1,Airport/Travel
+04/13/2016 10:53,04/13/2016 11:06,Business,Whitebridge,Cary,4.0,Airport/Travel
+02/14/2016 18:35,02/14/2016 18:43,Personal,Chapel Hill,Morrisville,2.7,Errand/Supplies
+09/23/2016 20:58,09/23/2016 21:33,Personal,Raleigh,Cary,7.9,Moving
+09/24/2016 19:07,09/24/2016 19:15,Business,Morrisville,Raleigh,2.8,Meeting
+10/25/2016 09:59,10/25/2016 10:05,Personal,Durham,Morrisville,1.4,Customer Visit
+10/01/2016 17:56,10/01/2016 18:05,Business,Other,Unknown Location,2.8,Meal/Entertain
+10/19/2016 21:02,10/19/2016 21:07,Business,Cary,Chapel Hill,1.6,Meeting
+12/14/2016 18:02,12/14/2016 18:14,Business,Durham,Morrisville,2.7,Meal/Entertain
+01/26/2016 21:58,01/26/2016 22:04,Business,Cary,Durham,2.0,Meeting
+06/04/2016 15:17,06/04/2016 15:50,Business,Unknown Location,Other,7.2,Meeting
+04/26/2016 10:19,04/26/2016 11:06,Business,Durham,Chapel Hill,13.2,Meeting
+05/17/2016 19:38,05/17/2016 19:51,Personal,Whitebridge,Unknown Location,4.5,Airport/Travel
+07/27/2016 21:48,07/27/2016 21:59,Personal,Garner,Other,3.4,Meeting
+09/20/2016 11:04,09/20/2016 11:12,Personal,Other,Whitebridge,2.2,Meal/Entertain
+09/25/2016 06:11,09/25/2016 06:18,Personal,Apex,Durham,1.7,Meal/Entertain
+05/07/2016 07:29,05/07/2016 07:33,Business,Cary,Whitebridge,1.2,Errand/Supplies
+05/20/2016 17:52,05/20/2016 18:02,Personal,Garner,Cary,3.1,Airport/Travel
+12/14/2016 06:15,12/14/2016 06:25,Personal,Durham,Morrisville,2.6,Meeting
+08/30/2016 17:22,08/30/2016 17:29,Personal,Other,Other,1.6,Meeting
+05/25/2016 06:24,05/25/2016 06:29,Business,Chapel Hill,Morrisville,1.2,Charity
+04/23/2016 13:43,04/23/2016 13:50,Business,Other,Unknown Location,1.8,Airport/Travel
+01/11/2016 06:30,01/11/2016 07:07,Business,Durham,Unknown Location,9.1,Errand/Supplies
+01/05/2016 13:16,01/05/2016 13:35,Business,Unknown Location,Morrisville,4.1,Meal/Entertain
+08/04/2016 18:54,08/04/2016 19:01,Business,Cary,Other,2.4,Charity
+06/03/2016 22:52,06/03/2016 23:09,Business,Cary,Other,4.3,Airport/Travel
+09/18/2016 17:35,09/18/2016 17:53,Personal,Cary,Cary,4.5,Meeting
+12/16/2016 09:30,12/16/2016 09:35,Personal,Other,Other,1.2,Airport/Travel
+05/21/2016 14:41,05/21/2016 15:05,Business,Cary,Cary,5.1,Between Offices
+04/06/2016 10:33,04/06/2016 11:00,Business,Other,Garner,5.8,Meal/Entertain
+07/25/2016 16:43,07/25/2016 16:46,Personal,Other,Raleigh,1.5,Airport/Travel
+05/31/2016 14:58,05/31/2016 15:07,Business,Cary,Unknown Location,2.8,Meal/Entertain
+10/25/2016 12:21,10/25/2016 12:37,Business,Other,Whitebridge,5.3,Meal/Entertain
+11/22/2016 21:58,11/22/2016 22:33,Business,Morrisville,Apex,10.4,Meal/Entertain
+03/28/2016 11:18,03/28/2016 11:21,Personal,Apex,Durham,1.3,Charity
+10/13/2016 11:43,10/13/2016 12:18,Business,Research Triangle Park,Cary,8.7,Meeting
+06/30/2016 13:47,06/30/2016 14:14,Personal,Cary,Apex,7.8,Meeting
+07/09/2016 14:37,07/09/2016 14:47,Business,Research Triangle Park,Cary,2.2,Charity
+01/28/2016 08:30,01/28/2016 09:01,Personal,Cary,Cary,8.3,Meal/Entertain
+09/28/2016 15:26,09/28/2016 15:31,Business,Research Triangle Park,Other,1.2,Meeting
+04/12/2016 16:26,04/12/2016 17:39,Business,Raleigh,Unknown Location,15.5,Between Offices
+03/14/2016 16:55,03/14/2016 17:18,Business,Cary,Cary,5.2,Meal/Entertain
+06/19/2016 11:20,06/19/2016 11:31,Business,Garner,Morrisville,4.4,Errand/Supplies
+04/17/2016 11:36,04/17/2016 11:57,Personal,Unknown Location,Durham,5.8,Airport/Travel
+03/07/2016 19:40,03/07/2016 19:50,Personal,Morrisville,Research Triangle Park,2.9,Meeting
+07/15/2016 06:02,07/15/2016 06:17,Business,Other,Morrisville,3.5,Moving
+06/13/2016 22:12,06/13/2016 22:14,Personal,Whitebridge,Research Triangle Park,1.1,Meeting
+04/25/2016 17:19,04/25/2016 17:24,Business,Cary,Other,1.5,Errand/Supplies
+06/05/2016 11:04,06/05/2016 11:26,Business,Unknown Location,Other,6.8,Errand/Supplies
+08/21/2016 22:38,08/21/2016 22:50,Business,Other,Morrisville,3.5,Between Offices
+06/24/2016 21:22,06/24/2016 21:38,Business,Morrisville,Durham,5.6,Meeting
+01/10/2016 13:14,01/10/2016 13:28,Personal,Whitebridge,Other,5.3,Meal/Entertain
+10/28/2016 22:10,10/28/2016 22:15,Business,Whitebridge,Other,1.4,Meal/Entertain
+07/11/2016 14:49,07/11/2016 14:58,Business,Other,Chapel Hill,3.6,Meal/Entertain
+12/04/2016 09:41,12/04/2016 09:59,Business,Cary,Apex,7.0,Errand/Supplies
+08/01/2016 20:24,08/01/2016 20:28,Business,Cary,Other,1.4,Between Offices
+04/15/2016 06:19,04/15/2016 06:26,Business,Other,Unknown Location,2.8,Meal/Entertain
+05/18/2016 10:26,05/18/2016 10:45,Business,Whitebridge,Morrisville,6.9,Meal/Entertain
+05/24/2016 09:50,05/24/2016 09:54,Business,Whitebridge,Unknown Location,1.4,Moving
+05/14/2016 22:12,05/14/2016 22:20,Personal,Morrisville,Other,2.5,Airport/Travel
+01/21/2016 21:58,01/21/2016 22:06,Business,Raleigh,Other,1.8,Meal/Entertain
+04/30/2016 06:00,04/30/2016 06:22,Personal,Apex,Cary,4.7,Airport/Travel
+12/08/2016 21:09,12/08/2016 21:57,Personal,Apex,Whitebridge,10.9,Airport/Travel
+02/21/2016 14:41,02/21/2016 14:50,Business,Morrisville,Cary,1.9,Meeting
+05/15/2016 20:03,05/15/2016 20:07,Business,Whitebridge,Morrisville,1.4,Customer Visit
+05/28/2016 17:51,05/28/2016 18:08,Business,Research Triangle Park,Apex,4.8,Commute
+02/18/2016 07:00,02/18/2016 07:30,Business,Raleigh,Cary,7.4,Meal/Entertain
+06/17/2016 17:57,06/17/2016 18:08,Business,Cary,Morrisville,2.9,Meeting
+07/09/2016 16:11,07/09/2016 16:15,Business,Apex,Cary,1.4,Errand/Supplies
+05/19/2016 18:44,05/19/2016 19:16,Business,Morrisville,Cary,7.3,Airport/Travel
+02/27/2016 10:44,02/27/2016 11:10,Personal,Chapel Hill,Garner,5.3,Meeting
+02/23/2016 19:58,02/23/2016 20:16,Business,Apex,Chapel Hill,4.0,Commute
+04/02/2016 18:49,04/02/2016 18:55,Personal,Unknown Location,Research Triangle Park,2.5,Airport/Travel
+09/04/2016 21:07,09/04/2016 21:36,Business,Whitebridge,Morrisville,8.3,Meeting
+05/13/2016 16:00,05/13/2016 16:21,Business,Whitebridge,Apex,5.1,Airport/Travel
+10/16/2016 13:42,10/16/2016 14:12,Business,Other,Garner,7.9,Meal/Entertain
+08/09/2016 13:30,08/09/2016 13:40,Personal,Morrisville,Garner,2.4,Errand/Supplies
+03/17/2016 07:00,03/17/2016 07:12,Business,Whitebridge,Cary,4.4,Meeting
+09/10/2016 11:04,09/10/2016 11:22,Personal,Other,Other,5.6,Meeting
+05/22/2016 07:32,05/22/2016 07:39,Business,Whitebridge,Morrisville,1.8,Customer Visit
+04/30/2016 08:29,04/30/2016 08:40,Business,Morrisville,Durham,3.0,Meeting
+09/12/2016 20:20,09/12/2016 20:25,Business,Raleigh,Morrisville,1.4,Customer Visit
+02/22/2016 18:26,02/22/2016 18:30,Personal,Other,Raleigh,1.1,Customer Visit
+11/05/2016 15:56,11/05/2016 16:06,Business,Morrisville,Cary,3.4,Meeting
+06/23/2016 17:52,06/23/2016 17:55,Business,Durham,Cary,1.2,Meal/Entertain
+06/18/2016 21:45,06/18/2016 22:04,Business,Cary,Durham,4.6,Airport/Travel
+02/19/2016 13:00,02/19/2016 13:10,Business,Apex,Research Triangle Park,2.4,Between Offices
+10/07/2016 22:23,10/07/2016 22:36,Business,Whitebridge,Durham,5.0,Meeting
+09/09/2016 10:52,09/09/2016 11:14,Business,Other,Chapel Hill,5.2,Meal/Entertain
+05/10/2016 12:12,05/10/2016 12:18,Personal,Other,Morrisville,1.4,Meal/Entertain
+08/22/2016 12:45,08/22/2016 12:55,Business,Raleigh,Raleigh,2.4,Meeting
+11/20/2016 09:49,11/20/2016 10:19,Business,Other,Apex,8.4,Charity
+09/15/2016 10:31,09/15/2016 10:35,Personal,Cary,Cary,1.0,Airport/Travel
+08/09/2016 21:59,08/09/2016 22:15,Personal,Morrisville,Morrisville,3.4,Meal/Entertain
+12/20/2016 11:46,12/20/2016 12:04,Business,Morrisville,Other,6.6,Meal/Entertain
+11/06/2016 16:32,11/06/2016 17:00,Business,Cary,Cary,8.1,Commute
+12/20/2016 13:17,12/20/2016 13:26,Business,Research Triangle Park,Other,2.7,Airport/Travel
+08/19/2016 10:08,08/19/2016 10:19,Business,Other,Cary,2.8,Meeting
+06/02/2016 16:45,06/02/2016 17:05,Business,Garner,Chapel Hill,5.4,Charity
+04/12/2016 12:39,04/12/2016 13:00,Business,Garner,Other,5.2,Customer Visit
+12/29/2016 11:32,12/29/2016 11:46,Business,Unknown Location,Other,3.6,Meeting
+06/29/2016 21:37,06/29/2016 21:52,Business,Cary,Morrisville,3.8,Errand/Supplies
+12/11/2016 15:56,12/11/2016 16:29,Business,Unknown Location,Other,7.3,Between Offices
+02/24/2016 06:24,02/24/2016 06:30,Business,Cary,Unknown Location,1.5,Meeting
+05/16/2016 11:18,05/16/2016 11:31,Business,Research Triangle Park,Cary,4.8,Between Offices
+12/19/2016 15:13,12/19/2016 15:27,Business,Other,Chapel Hill,5.7,Meeting
+02/22/2016 13:47,02/22/2016 14:02,Business,Research Triangle Park,Durham,4.5,Meal/Entertain
+12/22/2016 15:44,12/22/2016 16:06,Business,Unknown Location,Apex,4.6,Moving
+08/01/2016 16:35,08/01/2016 16:40,Business,Whitebridge,Morrisville,1.2,Meal/Entertain
+11/13/2016 20:53,11/13/2016 21:00,Business,Garner,Other,1.9,Moving
+10/28/2016 12:49,10/28/2016 13:04,Business,Cary,Whitebridge,5.3,Meal/Entertain
+03/31/2016 08:11,03/31/2016 09:02,Personal,Raleigh,Unknown Location,11.9,Between Offices
+07/12/2016 07:27,07/12/2016 07:33,Personal,Durham,Raleigh,2.1,Airport/Travel
+10/26/2016 14:00,10/26/2016 14:09,Business,Cary,Garner,2.3,Charity
+01/21/2016 10:59,01/21/2016 11:05,Business,Morrisville,Unknown Location,2.3,Customer Visit
+09/08/2016 17:04,09/08/2016 17:24,Personal,Raleigh,Research Triangle Park,6.1,Meal/Entertain
+04/04/2016 22:04,04/04/2016 22:21,Business,Research Triangle Park,Unknown Location,6.1,Meeting
+10/01/2016 18:05,10/01/2016 18:16,Business,Other,Durham,2.4,Meeting
+06/18/2016 17:18,06/18/2016 17:25,Business,Raleigh,Other,1.8,Meal/Entertain
+08/31/2016 06:07,08/31/2016 06:23,Personal,Morrisville,Morrisville,4.7,Customer Visit
+01/21/2016 16:24,01/21/2016 17:09,Business,Cary,Unknown Location,9.3,Meeting
+05/11/2016 15:01,05/11/2016 15:42,Personal,Durham,Cary,9.1,Errand/Supplies
+09/20/2016 22:28,09/20/2016 22:38,Business,Garner,Morrisville,3.2,Airport/Travel
+06/13/2016 22:05,06/13/2016 22:36,Business,Chapel Hill,Raleigh,10.9,Meeting
+09/30/2016 06:40,09/30/2016 06:45,Business,Other,Morrisville,1.2,Meeting
+12/16/2016 19:53,12/16/2016 19:58,Business,Cary,Other,1.4,Customer Visit
+11/27/2016 08:47,11/27/2016 08:59,Business,Cary,Durham,4.9,Errand/Supplies
+01/20/2016 08:04,01/20/2016 08:09,Business,Cary,Morrisville,1.2,Meeting
+02/06/2016 13:58,02/06/2016 14:04,Business,Cary,Cary,2.0,Meeting
+08/09/2016 16:01,08/09/2016 16:08,Business,Raleigh,Apex,2.6,Errand/Supplies
+11/24/2016 08:48,11/24/2016 09:02,Personal,Other,Whitebridge,5.6,Between Offices
+07/02/2016 22:06,07/02/2016 22:14,Personal,Morrisville,Chapel Hill,2.1,Meeting
+02/14/2016 15:48,02/14/2016 16:21,Business,Other,Other,9.7,Customer Visit
+08/30/2016 11:34,08/30/2016 11:41,Business,Cary,Whitebridge,1.8,Errand/Supplies
+05/31/2016 10:19,05/31/2016 10:41,Business,Morrisville,Research Triangle Park,4.8,Errand/Supplies
+01/06/2016 10:07,01/06/2016 10:11,Business,Apex,Other,1.1,Customer Visit
+10/02/2016 08:19,10/02/2016 08:26,Business,Other,Morrisville,1.8,Commute
+04/18/2016 19:57,04/18/2016 20:14,Business,Durham,Raleigh,4.5,Meeting
+04/04/2016 13:39,04/04/2016 13:59,Personal,Cary,Cary,7.0,Meeting
+12/09/2016 07:54,12/09/2016 08:21,Personal,Whitebridge,Durham,5.6,Meeting
+08/24/2016 08:18,08/24/2016 08:32,Personal,Other,Research Triangle Park,4.7,Meal/Entertain
+10/24/2016 21:21,10/24/2016 21:31,Personal,Apex,Cary,2.5,Meal/Entertain
+02/21/2016 15:39,02/21/2016 15:42,Business,Chapel Hill,Durham,1.2,Errand/Supplies
+08/18/2016 16:39,08/18/2016 16:58,Business,Whitebridge,Morrisville,4.6,Commute
+10/16/2016 17:51,10/16/2016 17:59,Personal,Unknown Location,Durham,2.3,Meal/Entertain
+06/09/2016 13:50,06/09/2016 13:57,Personal,Morrisville,Chapel Hill,1.8,Airport/Travel
+05/21/2016 17:08,05/21/2016 17:23,Business,Other,Raleigh,4.8,Meeting
+08/24/2016 20:22,08/24/2016 20:44,Personal,Garner,Cary,6.0,Customer Visit
+03/30/2016 08:53,03/30/2016 09:02,Personal,Unknown Location,Whitebridge,2.1,Meeting
+04/10/2016 14:46,04/10/2016 15:08,Business,Whitebridge,Whitebridge,8.2,Meal/Entertain
+01/10/2016 22:40,01/10/2016 22:44,Business,Durham,Morrisville,1.1,Errand/Supplies
+10/29/2016 12:58,10/29/2016 13:01,Business,Research Triangle Park,Other,1.1,Between Offices
+08/29/2016 10:23,08/29/2016 10:35,Personal,Research Triangle Park,Morrisville,2.7,Charity
+05/28/2016 10:29,05/28/2016 10:37,Personal,Durham,Chapel Hill,3.3,Airport/Travel
+09/14/2016 06:42,09/14/2016 06:51,Business,Chapel Hill,Cary,1.9,Between Offices
+09/20/2016 10:28,09/20/2016 10:34,Personal,Other,Other,1.6,Meal/Entertain
+12/03/2016 10:47,12/03/2016 11:13,Business,Whitebridge,Morrisville,5.4,Meeting
+04/22/2016 21:14,04/22/2016 21:18,Business,Cary,Unknown Location,1.2,Between Offices
+12/08/2016 12:33,12/08/2016 13:03,Business,Cary,Cary,8.9,Meeting
+08/20/2016 07:02,08/20/2016 07:48,Business,Whitebridge,Other,14.1,Errand/Supplies
+11/20/2016 14:53,11/20/2016 15:14,Personal,Raleigh,Chapel Hill,5.5,Meeting
+03/30/2016 18:41,03/30/2016 18:51,Personal,Raleigh,Morrisville,2.6,Meeting
+09/21/2016 14:24,09/21/2016 15:03,Personal,Morrisville,Morrisville,13.0,Meeting
+06/29/2016 17:31,06/29/2016 18:00,Business,Unknown Location,Cary,6.2,Meal/Entertain
+09/13/2016 10:28,09/13/2016 10:32,Business,Raleigh,Other,1.6,Charity
+04/18/2016 10:11,04/18/2016 10:17,Business,Garner,Other,1.6,Meeting
+12/04/2016 13:26,12/04/2016 13:54,Business,Durham,Other,6.6,Errand/Supplies
+12/11/2016 21:30,12/11/2016 21:35,Business,Morrisville,Morrisville,1.8,Errand/Supplies
+01/12/2016 13:02,01/12/2016 13:07,Personal,Unknown Location,Raleigh,1.5,Meeting
+11/18/2016 22:02,11/18/2016 22:26,Personal,Morrisville,Cary,8.4,Errand/Supplies
+05/12/2016 11:33,05/12/2016 12:19,Business,Research Triangle Park,Other,11.6,Airport/Travel
+11/22/2016 06:56,11/22/2016 07:17,Business,Research Triangle Park,Whitebridge,5.2,Moving
+02/13/2016 12:28,02/13/2016 12:43,Business,Morrisville,Other,4.1,Airport/Travel
+03/28/2016 13:53,03/28/2016 14:00,Business,Unknown Location,Other,2.8,Meal/Entertain
+04/03/2016 22:16,04/03/2016 22:22,Business,Cary,Whitebridge,1.6,Errand/Supplies
+11/01/2016 08:14,11/01/2016 08:21,Business,Other,Apex,2.6,Meeting
+04/13/2016 22:55,04/13/2016 23:32,Personal,Morrisville,Morrisville,9.0,Customer Visit
+11/06/2016 09:11,11/06/2016 09:23,Personal,Apex,Morrisville,3.2,Errand/Supplies
+09/29/2016 22:48,09/29/2016 22:53,Personal,Morrisville,Research Triangle Park,1.4,Meeting
+11/04/2016 06:57,11/04/2016 07:40,Business,Raleigh,Apex,10.3,Airport/Travel
+09/24/2016 19:23,09/24/2016 19:56,Business,Cary,Cary,7.9,Meeting
+04/27/2016 21:50,04/27/2016 22:09,Business,Whitebridge,Whitebridge,5.9,Moving
+02/20/2016 19:08,02/20/2016 19:16,Personal,Cary,Other,2.0,Airport/Travel
+05/25/2016 19:16,05/25/2016 19:23,Personal,Other,Raleigh,1.7,Meeting
+10/22/2016 22:07,10/22/2016 22:18,Business,Raleigh,Whitebridge,3.4,Meal/Entertain
+12/18/2016 16:26,12/18/2016 16:33,Business,Other,Whitebridge,2.5,Customer Visit
+05/09/2016 14:54,05/09/2016 15:08,Business,Other,Other,3.6,Airport/Travel
+05/21/2016 18:48,05/21/2016 18:54,Personal,Whitebridge,Other,1.8,Between Offices
+09/04/2016 11:23,09/04/2016 11:36,Business,Morrisville,Whitebridge,3.7,Meal/Entertain
+10/22/2016 17:49,10/22/2016 18:11,Business,Research Triangle Park,Garner,5.1,Customer Visit
+04/27/2016 20:50,04/27/2016 21:04,Business,Cary,Cary,5.0,Between Offices
+09/17/2016 18:50,09/17/2016 18:59,Personal,Other,Unknown Location,2.4,Airport/Travel
+03/23/2016 18:40,03/23/2016 18:42,Business,Raleigh,Research Triangle Park,1.0,Commute
+08/29/2016 19:05,08/29/2016 19:08,Business,Raleigh,Cary,1.2,Airport/Travel
+11/07/2016 07:46,11/07/2016 07:58,Business,Whitebridge,Other,2.6,Meeting
+05/26/2016 07:49,05/26/2016 08:16,Business,Cary,Other,6.7,Meeting
+01/06/2016 12:54,01/06/2016 13:14,Personal,Raleigh,Morrisville,4.6,Airport/Travel
+04/09/2016 07:50,04/09/2016 08:05,Personal,Durham,Other,4.1,Between Offices
+11/10/2016 11:43,11/10/2016 11:46,Business,Chapel Hill,Cary,1.1,Meeting
+03/21/2016 08:17,03/21/2016 08:37,Business,Durham,Raleigh,6.0,Charity
+07/26/2016 12:33,07/26/2016 12:37,Business,Other,Other,1.1,Commute
+10/08/2016 15:46,10/08/2016 16:19,Business,Research Triangle Park,Apex,6.9,Moving
+06/26/2016 14:14,06/26/2016 14:26,Business,Raleigh,Research Triangle Park,4.1,Errand/Supplies
+10/21/2016 06:16,10/21/2016 06:22,Business,Cary,Durham,1.6,Meeting
+02/07/2016 22:18,02/07/2016 22:24,Business,Cary,Unknown Location,2.4,Meal/Entertain
+05/11/2016 14:44,05/11/2016 14:53,Personal,Other,Raleigh,2.9,Errand/Supplies
+05/04/2016 16:49,05/04/2016 16:59,Business,Chapel Hill,Durham,3.0,Moving
+01/15/2016 21:07,01/15/2016 21:13,Personal,Cary,Raleigh,2.0,Airport/Travel
+12/12/2016 13:51,12/12/2016 14:02,Personal,Cary,Cary,2.3,Customer Visit
+10/01/2016 06:44,10/01/2016 07:05,Business,Durham,Morrisville,6.9,Meal/Entertain
+07/23/2016 16:04,07/23/2016 16:14,Business,Morrisville,Cary,3.7,Meal/Entertain
+06/30/2016 12:57,06/30/2016 13:08,Business,Durham,Other,3.8,Airport/Travel
+09/12/2016 12:15,09/12/2016 12:40,Personal,Other,Whitebridge,5.4,Commute
+04/27/2016 12:53,04/27/2016 13:01,Business,Other,Other,2.0,Meal/Entertain
+02/24/2016 09:58,02/24/2016 10:04,Business,Cary,Unknown Location,1.3,Commute
+11/10/2016 06:48,11/10/2016 07:24,Business,Whitebridge,Apex,7.5,Meeting
+07/09/2016 16:31,07/09/2016 17:11,Business,Morrisville,Garner,8.6,Errand/Supplies
+05/20/2016 21:11,05/20/2016 22:22,Personal,Other,Research Triangle Park,14.9,Meeting
+07/22/2016 13:48,07/22/2016 13:58,Personal,Whitebridge,Cary,3.9,Airport/Travel
+09/01/2016 07:32,09/01/2016 07:43,Personal,Cary,Research Triangle Park,2.4,Commute
+08/22/2016 09:44,08/22/2016 09:55,Business,Research Triangle Park,Garner,3.4,Commute
+01/07/2016 12:24,01/07/2016 12:36,Personal,Garner,Chapel Hill,3.9,Customer Visit
+05/12/2016 11:35,05/12/2016 11:41,Business,Morrisville,Cary,2.0,Airport/Travel
+06/24/2016 17:11,06/24/2016 17:20,Business,Other,Raleigh,3.3,Customer Visit
+07/05/2016 18:17,07/05/2016 18:28,Business,Chapel Hill,Whitebridge,3.0,Errand/Supplies
+12/17/2016 13:52,12/17/2016 13:56,Business,Chapel Hill,Other,1.4,Meeting
+10/11/2016 19:54,10/11/2016 20:01,Business,Chapel Hill,Morrisville,2.6,Errand/Supplies
+08/30/2016 06:11,08/30/2016 06:18,Business,Cary,Other,2.8,Meal/Entertain
+09/30/2016 16:50,09/30/2016 17:00,Personal,Whitebridge,Unknown Location,3.2,Meal/Entertain
+01/25/2016 18:06,01/25/2016 18:18,Business,Whitebridge,Other,4.9,Customer Visit
+08/31/2016 09:28,08/31/2016 09:45,Personal,Garner,Durham,5.5,Between Offices
+10/13/2016 14:22,10/13/2016 14:25,Business,Other,Whitebridge,1.1,Meal/Entertain
+04/11/2016 11:49,04/11/2016 11:55,Personal,Other,Research Triangle Park,2.1,Meeting
+09/06/2016 20:56,09/06/2016 21:01,Personal,Raleigh,Cary,1.3,Meeting
+11/19/2016 10:55,11/19/2016 11:02,Business,Garner,Other,1.6,Meeting
+08/03/2016 18:54,08/03/2016 19:18,Personal,Apex,Morrisville,8.9,Customer Visit
+04/26/2016 16:20,04/26/2016 16:39,Personal,Other,Other,4.5,Meeting
+11/26/2016 18:17,11/26/2016 18:53,Business,Apex,Unknown Location,8.3,Between Offices
+10/27/2016 22:28,10/27/2016 22:36,Personal,Whitebridge,Apex,2.8,Airport/Travel
+03/05/2016 13:42,03/05/2016 13:50,Business,Morrisville,Cary,2.0,Errand/Supplies
+04/17/2016 11:25,04/17/2016 11:28,Personal,Durham,Durham,1.4,Commute
+10/07/2016 07:01,10/07/2016 07:23,Personal,Other,Whitebridge,5.9,Meeting
+02/23/2016 14:39,02/23/2016 14:45,Business,Apex,Whitebridge,1.6,Meal/Entertain
+06/07/2016 13:15,06/07/2016 13:34,Business,Cary,Morrisville,5.5,Errand/Supplies
+03/08/2016 22:53,03/08/2016 22:57,Business,Cary,Whitebridge,1.6,Meal/Entertain
+06/15/2016 21:29,06/15/2016 22:20,Business,Cary,Whitebridge,13.3,Errand/Supplies
+10/07/2016 20:08,10/07/2016 21:01,Business,Garner,Morrisville,12.6,Meal/Entertain
+10/29/2016 20:40,10/29/2016 21:06,Personal,Chapel Hill,Durham,5.6,Errand/Supplies
+09/25/2016 15:58,09/25/2016 16:07,Personal,Apex,Whitebridge,2.4,Commute
+08/14/2016 15:23,08/14/2016 15:31,Personal,Cary,Whitebridge,2.8,Meeting
+01/01/2016 22:52,01/01/2016 23:08,Business,Cary,Other,5.7,Commute
+08/28/2016 06:44,08/28/2016 07:30,Business,Chapel Hill,Research Triangle Park,9.5,Moving
+06/02/2016 06:49,06/02/2016 06:58,Business,Durham,Other,2.9,Between Offices
+01/04/2016 17:12,01/04/2016 17:22,Personal,Cary,Unknown Location,2.8,Customer Visit
+05/07/2016 11:45,05/07/2016 12:04,Business,Durham,Cary,5.5,Meal/Entertain
+04/22/2016 14:05,04/22/2016 14:13,Business,Morrisville,Cary,2.8,Errand/Supplies
+12/21/2016 14:18,12/21/2016 14:35,Business,Morrisville,Other,4.5,Moving
+07/30/2016 12:54,07/30/2016 12:57,Personal,Morrisville,Other,1.2,Meeting
+11/22/2016 20:39,11/22/2016 20:51,Business,Other,Other,3.0,Meeting
+04/06/2016 16:01,04/06/2016 16:08,Personal,Unknown Location,Apex,1.6,Airport/Travel
+04/05/2016 09:18,04/05/2016 09:26,Business,Other,Other,2.0,Customer Visit
+04/29/2016 08:09,04/29/2016 08:12,Business,Research Triangle Park,Other,1.0,Meeting
+06/08/2016 21:23,06/08/2016 21:36,Business,Whitebridge,Other,3.1,Between Offices
+02/11/2016 10:03,02/11/2016 10:09,Personal,Apex,Unknown Location,2.0,Airport/Travel
+08/28/2016 11:12,08/28/2016 11:38,Business,Apex,Cary,8.5,Meeting
+01/07/2016 09:49,01/07/2016 10:07,Personal,Morrisville,Cary,5.2,Errand/Supplies
+05/06/2016 07:12,05/06/2016 07:25,Business,Morrisville,Other,3.1,Meeting
+12/06/2016 12:30,12/06/2016 12:42,Business,Morrisville,Raleigh,2.6,Moving
+03/22/2016 07:47,03/22/2016 08:25,Business,Other,Garner,10.2,Airport/Travel
+09/03/2016 15:12,09/03/2016 15:18,Business,Cary,Other,2.5,Airport/Travel
+02/27/2016 13:40,02/27/2016 13:47,Business,Cary,Morrisville,2.9,Airport/Travel
+10/26/2016 09:25,10/26/2016 09:40,Personal,Cary,Cary,6.2,Meeting
+10/24/2016 21:44,10/24/2016 21:57,Business,Apex,Whitebridge,4.0,Errand/Supplies
+05/07/2016 11:31,05/07/2016 11:36,Business,Durham,Cary,1.3,Customer Visit
+01/31/2016 17:41,01/31/2016 17:47,Business,Other,Chapel Hill,1.6,Meeting
+03/05/2016 21:14,03/05/2016 21:22,Business,Cary,Unknown Location,2.3,Meal/Entertain
+08/12/2016 12:01,08/12/2016 12:17,Business,Morrisville,Raleigh,4.9,Meeting
+05/08/2016 07:31,05/08/2016 07:50,Business,Unknown Location,Garner,5.1,Errand/Supplies
+12/22/2016 21:12,12/22/2016 21:26,Business,Morrisville,Raleigh,3.8,Customer Visit
+08/27/2016 14:55,08/27/2016 15:28,Business,Morrisville,Cary,6.9,Charity
+03/23/2016 08:33,03/23/2016 08:38,Personal,Other,Unknown Location,1.6,Airport/Travel
+10/04/2016 17:29,10/04/2016 17:33,Business,Garner,Morrisville,1.0,Meeting
+04/04/2016 06:39,04/04/2016 07:12,Business,Morrisville,Morrisville,7.5,Commute
+06/13/2016 08:42,06/13/2016 09:38,Personal,Morrisville,Other,12.4,Meeting
+09/25/2016 21:49,09/25/2016 22:03,Business,Other,Raleigh,3.7,Airport/Travel
+07/28/2016 16:07,07/28/2016 16:12,Personal,Cary,Chapel Hill,1.3,Meeting
+03/07/2016 11:55,03/07/2016 11:58,Personal,Chapel Hill,Other,1.1,Meeting
+02/20/2016 07:36,02/20/2016 07:51,Business,Morrisville,Unknown Location,4.4,Meal/Entertain
+09/26/2016 14:03,09/26/2016 14:13,Business,Other,Other,2.5,Meeting
+01/07/2016 12:41,01/07/2016 12:56,Business,Cary,Cary,3.3,Airport/Travel
+08/27/2016 07:23,08/27/2016 07:40,Personal,Other,Whitebridge,3.7,Meeting
+07/07/2016 07:52,07/07/2016 08:08,Business,Other,Unknown Location,4.2,Meeting
+06/04/2016 08:13,06/04/2016 08:45,Personal,Other,Other,11.8,Meal/Entertain
+09/29/2016 18:12,09/29/2016 18:19,Business,Other,Chapel Hill,1.7,Meal/Entertain
+11/16/2016 11:35,11/16/2016 11:54,Business,Other,Cary,5.6,Errand/Supplies
+11/22/2016 17:43,11/22/2016 17:55,Business,Other,Other,3.0,Errand/Supplies
+03/26/2016 11:35,03/26/2016 11:44,Business,Other,Cary,2.7,Meeting
+09/30/2016 20:59,09/30/2016 21:06,Business,Morrisville,Other,2.4,Moving
+07/09/2016 19:48,07/09/2016 20:07,Personal,Morrisville,Raleigh,4.3,Customer Visit
+11/07/2016 13:36,11/07/2016 13:48,Business,Unknown Location,Other,3.6,Airport/Travel
+05/10/2016 17:28,05/10/2016 17:38,Business,Morrisville,Apex,3.0,Meeting
+05/25/2016 06:33,05/25/2016 06:40,Business,Other,Cary,1.5,Between Offices
+06/02/2016 13:13,06/02/2016 13:32,Business,Other,Morrisville,7.5,Airport/Travel
+10/10/2016 22:35,10/10/2016 22:49,Personal,Durham,Other,3.8,Airport/Travel
+01/20/2016 20:22,01/20/2016 20:27,Business,Durham,Chapel Hill,1.6,Airport/Travel
+05/07/2016 13:16,05/07/2016 13:34,Personal,Raleigh,Other,6.6,Errand/Supplies
+10/18/2016 12:46,10/18/2016 12:50,Business,Morrisville,Cary,1.3,Airport/Travel
+03/29/2016 21:52,03/29/2016 22:28,Personal,Cary,Garner,8.6,Airport/Travel
+10/31/2016 15:02,10/31/2016 15:23,Personal,Research Triangle Park,Whitebridge,5.4,Commute
+01/29/2016 16:22,01/29/2016 16:51,Business,Whitebridge,Durham,8.1,Meeting
+04/26/2016 06:40,04/26/2016 07:00,Business,Raleigh,Morrisville,6.0,Meeting
+09/25/2016 07:20,09/25/2016 07:30,Personal,Whitebridge,Other,3.6,Airport/Travel
+12/23/2016 13:09,12/23/2016 13:14,Personal,Other,Garner,1.2,Charity
+08/16/2016 22:05,08/16/2016 22:10,Personal,Unknown Location,Other,1.8,Airport/Travel
+03/16/2016 10:21,03/16/2016 10:26,Business,Cary,Morrisville,1.3,Errand/Supplies
+10/07/2016 18:16,10/07/2016 18:20,Business,Cary,Research Triangle Park,1.3,Charity
+03/10/2016 21:35,03/10/2016 21:40,Business,Raleigh,Unknown Location,1.7,Meal/Entertain
+04/10/2016 22:15,04/10/2016 22:21,Business,Whitebridge,Durham,1.9,Meal/Entertain
+06/14/2016 08:07,06/14/2016 08:23,Personal,Cary,Cary,4.7,Airport/Travel
+04/07/2016 16:22,04/07/2016 16:32,Personal,Morrisville,Morrisville,4.0,Meal/Entertain
+03/27/2016 17:39,03/27/2016 18:09,Business,Morrisville,Raleigh,6.7,Charity
+08/13/2016 07:59,08/13/2016 08:19,Personal,Garner,Other,6.7,Between Offices
+03/20/2016 08:07,03/20/2016 08:24,Business,Whitebridge,Chapel Hill,5.5,Commute
+05/27/2016 06:21,05/27/2016 06:34,Business,Raleigh,Unknown Location,4.9,Errand/Supplies
+08/29/2016 06:21,08/29/2016 06:27,Business,Whitebridge,Garner,1.8,Meeting
+10/06/2016 22:48,10/06/2016 22:55,Business,Cary,Raleigh,2.0,Customer Visit
+12/21/2016 06:24,12/21/2016 06:40,Personal,Raleigh,Chapel Hill,3.9,Meeting
+05/10/2016 11:03,05/10/2016 11:12,Personal,Whitebridge,Other,2.1,Between Offices
+01/28/2016 20:41,01/28/2016 21:09,Personal,Other,Other,10.7,Meal/Entertain
+12/05/2016 17:55,12/05/2016 17:59,Business,Other,Chapel Hill,1.4,Between Offices
+04/28/2016 18:32,04/28/2016 19:09,Personal,Other,Raleigh,13.5,Meeting
+09/05/2016 08:11,09/05/2016 08:19,Business,Durham,Other,1.7,Meeting
+12/30/2016 06:02,12/30/2016 06:09,Business,Other,Chapel Hill,1.9,Airport/Travel
+09/07/2016 18:47,09/07/2016 18:52,Personal,Whitebridge,Other,1.6,Meal/Entertain
+06/30/2016 15:15,06/30/2016 16:50,Business,Other,Cary,19.4,Meeting
+02/01/2016 14:56,02/01/2016 15:08,Business,Other,Apex,2.6,Meeting
+10/11/2016 14:14,10/11/2016 14:21,Business,Unknown Location,Other,1.5,Meeting
+02/14/2016 18:33,02/14/2016 19:20,Business,Other,Other,11.8,Meeting
+08/01/2016 13:36,08/01/2016 13:43,Personal,Other,Other,1.6,Errand/Supplies
+06/17/2016 20:34,06/17/2016 20:40,Personal,Unknown Location,Cary,1.5,Customer Visit
+10/04/2016 12:55,10/04/2016 13:01,Personal,Morrisville,Morrisville,1.5,Meeting
+03/10/2016 19:58,03/10/2016 20:36,Business,Chapel Hill,Durham,13.4,Airport/Travel
+03/21/2016 16:04,03/21/2016 16:22,Business,Morrisville,Other,3.7,Meeting
+04/04/2016 16:53,04/04/2016 17:27,Personal,Cary,Cary,8.1,Charity
+07/30/2016 19:19,07/30/2016 19:33,Personal,Cary,Morrisville,3.0,Errand/Supplies
+03/18/2016 12:06,03/18/2016 12:09,Business,Morrisville,Other,1.5,Moving
+11/11/2016 14:38,11/11/2016 14:49,Business,Research Triangle Park,Durham,3.8,Between Offices
+04/28/2016 06:22,04/28/2016 06:27,Business,Chapel Hill,Morrisville,1.3,Between Offices
+09/14/2016 21:45,09/14/2016 21:58,Personal,Unknown Location,Apex,4.5,Meeting
+09/08/2016 21:08,09/08/2016 21:12,Business,Chapel Hill,Morrisville,1.6,Commute
+01/08/2016 14:26,01/08/2016 14:33,Personal,Other,Morrisville,1.8,Airport/Travel
+04/14/2016 08:11,04/14/2016 08:59,Business,Cary,Unknown Location,9.7,Customer Visit
+12/18/2016 16:55,12/18/2016 17:04,Personal,Durham,Morrisville,3.0,Meeting
+01/22/2016 18:46,01/22/2016 18:55,Personal,Morrisville,Other,2.3,Meeting
+10/31/2016 22:41,10/31/2016 23:16,Business,Research Triangle Park,Cary,8.0,Customer Visit
+02/25/2016 20:29,02/25/2016 20:46,Personal,Raleigh,Other,6.8,Commute
+09/22/2016 18:47,09/22/2016 18:50,Business,Other,Morrisville,1.1,Airport/Travel
+04/07/2016 15:28,04/07/2016 15:36,Business,Whitebridge,Morrisville,2.7,Airport/Travel
+08/24/2016 11:27,08/24/2016 11:37,Personal,Chapel Hill,Other,2.2,Between Offices
+03/13/2016 20:53,03/13/2016 21:05,Business,Cary,Whitebridge,4.5,Meal/Entertain
+02/27/2016 11:49,02/27/2016 12:07,Business,Morrisville,Cary,3.9,Meeting
+03/10/2016 18:26,03/10/2016 18:31,Business,Cary,Morrisville,2.3,Errand/Supplies
+10/29/2016 12:56,10/29/2016 13:05,Business,Cary,Morrisville,3.0,Meal/Entertain
+03/04/2016 08:07,03/04/2016 08:27,Business,Unknown Location,Other,5.1,Commute
+09/25/2016 18:46,09/25/2016 19:09,Business,Cary,Other,6.2,Airport/Travel
+07/12/2016 18:02,07/12/2016 18:30,Business,Whitebridge,Other,5.9,Meeting
+12/03/2016 10:10,12/03/2016 10:32,Business,Morrisville,Cary,7.8,Customer Visit
+08/02/2016 15:19,08/02/2016 15:45,Personal,Cary,Morrisville,5.4,Meeting
+11/16/2016 11:07,11/16/2016 11:49,Personal,Unknown Location,Cary,8.6,Meal/Entertain
+11/14/2016 14:00,11/14/2016 14:13,Business,Other,Apex,3.0,Airport/Travel
+01/03/2016 21:15,01/03/2016 21:22,Business,Durham,Morrisville,1.8,Airport/Travel
+07/28/2016 20:05,07/28/2016 20:15,Business,Morrisville,Other,4.1,Customer Visit
+05/22/2016 12:03,05/22/2016 12:07,Business,Raleigh,Apex,1.7,Charity
+01/19/2016 10:54,01/19/2016 10:58,Business,Garner,Cary,1.1,Meal/Entertain
+06/01/2016 16:58,06/01/2016 17:01,Business,Durham,Cary,1.3,Customer Visit
+03/23/2016 15:39,03/23/2016 15:58,Personal,Morrisville,Whitebridge,4.6,Meeting
+10/14/2016 11:29,10/14/2016 11:48,Business,Cary,Raleigh,5.6,Commute
+02/17/2016 15:20,02/17/2016 15:28,Personal,Other,Garner,2.5,Moving
+08/06/2016 08:18,08/06/2016 08:26,Business,Other,Whitebridge,3.1,Meeting
+06/17/2016 22:26,06/17/2016 22:40,Business,Durham,Other,3.5,Airport/Travel
+01/30/2016 09:36,01/30/2016 09:57,Business,Apex,Morrisville,5.4,Meeting
+09/04/2016 15:27,09/04/2016 15:40,Business,Chapel Hill,Other,4.1,Meeting
+10/21/2016 17:59,10/21/2016 18:04,Business,Morrisville,Raleigh,1.5,Meal/Entertain
+11/19/2016 21:31,11/19/2016 22:01,Business,Other,Apex,6.5,Errand/Supplies
+12/28/2016 15:12,12/28/2016 15:14,Business,Cary,Morrisville,1.0,Customer Visit
+04/16/2016 19:26,04/16/2016 19:30,Business,Morrisville,Other,1.2,Meeting
+01/06/2016 12:44,01/06/2016 12:53,Personal,Other,Research Triangle Park,2.1,Between Offices
+06/02/2016 22:35,06/02/2016 22:40,Personal,Cary,Other,2.3,Meal/Entertain
+06/23/2016 18:46,06/23/2016 19:04,Personal,Other,Apex,3.8,Errand/Supplies
+04/09/2016 16:53,04/09/2016 17:03,Business,Chapel Hill,Unknown Location,2.4,Customer Visit
+01/19/2016 10:30,01/19/2016 10:35,Personal,Morrisville,Cary,1.6,Meeting
+06/20/2016 20:50,06/20/2016 21:21,Business,Other,Durham,6.6,Airport/Travel
+09/23/2016 15:36,09/23/2016 15:53,Business,Raleigh,Durham,5.3,Customer Visit
+01/10/2016 12:36,01/10/2016 12:58,Business,Morrisville,Unknown Location,4.9,Customer Visit
+02/03/2016 10:17,02/03/2016 10:40,Personal,Research Triangle Park,Other,7.1,Airport/Travel
+11/16/2016 11:36,11/16/2016 11:48,Business,Other,Whitebridge,4.1,Between Offices
+06/06/2016 16:45,06/06/2016 16:48,Personal,Other,Whitebridge,1.1,Airport/Travel
+05/01/2016 17:28,05/01/2016 17:50,Personal,Cary,Garner,6.9,Between Offices
+06/03/2016 11:07,06/03/2016 11:13,Business,Garner,Whitebridge,2.6,Customer Visit
+02/17/2016 20:32,02/17/2016 20:36,Business,Cary,Morrisville,1.1,Airport/Travel
+03/19/2016 12:21,03/19/2016 13:02,Personal,Garner,Morrisville,9.6,Meeting
+06/07/2016 16:09,06/07/2016 16:25,Business,Cary,Cary,5.9,Charity
+12/12/2016 10:13,12/12/2016 10:32,Personal,Whitebridge,Garner,5.3,Commute
+02/29/2016 06:19,02/29/2016 07:01,Personal,Morrisville,Other,10.0,Commute
+02/14/2016 16:29,02/14/2016 16:51,Business,Other,Chapel Hill,8.3,Between Offices
+01/12/2016 15:40,01/12/2016 16:07,Business,Morrisville,Morrisville,8.4,Between Offices
+05/26/2016 14:34,05/26/2016 14:42,Personal,Cary,Unknown Location,2.3,Meal/Entertain
+05/19/2016 10:10,05/19/2016 10:15,Business,Other,Other,2.1,Meeting
+09/20/2016 09:13,09/20/2016 09:26,Business,Cary,Other,3.6,Errand/Supplies
+03/13/2016 15:36,03/13/2016 15:41,Business,Raleigh,Cary,1.9,Meeting
+06/22/2016 20:03,06/22/2016 20:08,Business,Chapel Hill,Cary,1.5,Airport/Travel
+02/24/2016 18:03,02/24/2016 18:07,Personal,Other,Raleigh,1.3,Errand/Supplies
+10/30/2016 20:39,10/30/2016 20:47,Business,Durham,Whitebridge,2.5,Meeting
+12/31/2016 08:59,12/31/2016 09:19,Business,Research Triangle Park,Unknown Location,5.7,Charity
+02/17/2016 20:06,02/17/2016 20:18,Business,Chapel Hill,Other,3.0,Meeting
+08/28/2016 13:14,08/28/2016 13:21,Business,Cary,Other,1.5,Commute
+07/05/2016 18:11,07/05/2016 18:31,Personal,Unknown Location,Other,5.0,Meeting
+08/20/2016 21:01,08/20/2016 21:04,Personal,Durham,Cary,1.2,Airport/Travel
+08/24/2016 11:18,08/24/2016 11:41,Business,Chapel Hill,Raleigh,5.9,Meeting
+09/17/2016 09:25,09/17/2016 09:55,Personal,Chapel Hill,Garner,6.7,Meeting
+10/11/2016 08:50,10/11/2016 08:58,Business,Other,Chapel Hill,2.2,Airport/Travel
+07/30/2016 13:39,07/30/2016 13:44,Personal,Other,Apex,1.9,Charity
+07/15/2016 08:21,07/15/2016 08:28,Personal,Garner,Morrisville,1.8,Meal/Entertain
+08/10/2016 16:34,08/10/2016 16:48,Personal,Morrisville,Morrisville,4.9,Customer Visit
+12/30/2016 21:07,12/30/2016 21:21,Business,Other,Raleigh,4.0,Commute
+02/19/2016 20:11,02/19/2016 20:18,Business,Other,Morrisville,2.2,Meeting
+02/25/2016 18:20,02/25/2016 18:33,Personal,Other,Other,3.3,Meal/Entertain
+04/21/2016 10:56,04/21/2016 11:13,Personal,Other,Cary,3.9,Commute
+03/16/2016 10:28,03/16/2016 10:40,Business,Raleigh,Raleigh,3.5,Commute
+08/16/2016 12:13,08/16/2016 12:28,Business,Cary,Chapel Hill,4.8,Between Offices
+12/13/2016 15:58,12/13/2016 16:36,Business,Cary,Other,10.6,Between Offices
+02/15/2016 06:39,02/15/2016 07:32,Business,Other,Garner,15.3,Meeting
+05/30/2016 07:23,05/30/2016 08:05,Business,Other,Other,8.7,Between Offices
+12/26/2016 17:07,12/26/2016 17:42,Business,Durham,Morrisville,7.6,Between Offices
+08/09/2016 18:40,08/09/2016 18:47,Business,Research Triangle Park,Cary,2.3,Meeting
+08/10/2016 12:42,08/10/2016 12:46,Business,Whitebridge,Morrisville,1.6,Between Offices
+07/15/2016 17:53,07/15/2016 18:02,Personal,Cary,Raleigh,2.8,Between Offices
+03/09/2016 06:04,03/09/2016 06:16,Business,Cary,Whitebridge,4.5,Airport/Travel
+12/02/2016 19:08,12/02/2016 19:13,Business,Garner,Whitebridge,1.3,Meeting
+08/21/2016 19:39,08/21/2016 19:45,Personal,Cary,Durham,1.7,Airport/Travel
+08/18/2016 18:22,08/18/2016 18:28,Personal,Morrisville,Other,1.9,Airport/Travel
+10/22/2016 21:54,10/22/2016 22:17,Business,Unknown Location,Cary,5.4,Commute
+07/29/2016 17:02,07/29/2016 17:56,Business,Whitebridge,Apex,13.8,Commute
+02/27/2016 21:44,02/27/2016 21:49,Business,Unknown Location,Other,1.3,Meeting
+05/23/2016 20:33,05/23/2016 20:39,Business,Cary,Cary,1.3,Charity
+05/05/2016 21:40,05/05/2016 22:06,Business,Garner,Morrisville,5.5,Between Offices
+12/16/2016 15:39,12/16/2016 15:43,Personal,Other,Other,1.2,Errand/Supplies
+08/28/2016 20:32,08/28/2016 21:07,Personal,Whitebridge,Apex,8.9,Airport/Travel
+08/03/2016 17:51,08/03/2016 17:57,Business,Morrisville,Raleigh,2.2,Commute
+06/04/2016 14:03,06/04/2016 14:19,Personal,Raleigh,Other,4.3,Meal/Entertain
+01/27/2016 15:51,01/27/2016 16:05,Personal,Raleigh,Other,5.5,Charity
+02/12/2016 10:32,02/12/2016 10:37,Personal,Other,Other,1.3,Airport/Travel
+03/08/2016 14:17,03/08/2016 14:36,Business,Cary,Other,7.5,Meeting
+11/05/2016 11:58,11/05/2016 12:09,Business,Chapel Hill,Whitebridge,4.0,Between Offices
+07/08/2016 11:16,07/08/2016 11:34,Business,Other,Other,6.1,Customer Visit
+09/27/2016 07:21,09/27/2016 08:33,Personal,Cary,Other,14.8,Meeting
+03/19/2016 21:48,03/19/2016 23:06,Business,Morrisville,Other,17.8,Meeting
+12/04/2016 20:46,12/04/2016 20:59,Business,Other,Other,4.4,Between Offices
+01/28/2016 14:48,01/28/2016 15:05,Personal,Cary,Chapel Hill,6.7,Meal/Entertain
+07/23/2016 21:19,07/23/2016 21:34,Personal,Other,Apex,3.2,Meeting
+04/29/2016 18:43,04/29/2016 19:01,Business,Cary,Research Triangle Park,5.1,Commute
+09/28/2016 19:00,09/28/2016 19:09,Business,Whitebridge,Durham,2.1,Moving
+12/13/2016 16:33,12/13/2016 16:45,Business,Research Triangle Park,Whitebridge,4.8,Meal/Entertain
+11/22/2016 17:54,11/22/2016 18:07,Business,Whitebridge,Research Triangle Park,2.9,Between Offices
+06/20/2016 14:17,06/20/2016 14:37,Business,Morrisville,Other,6.4,Meal/Entertain
+07/19/2016 20:49,07/19/2016 21:03,Business,Unknown Location,Other,4.7,Meal/Entertain
+04/09/2016 22:21,04/09/2016 22:44,Business,Whitebridge,Cary,4.8,Meal/Entertain
+10/07/2016 06:43,10/07/2016 06:45,Personal,Morrisville,Durham,1.0,Meal/Entertain
+02/20/2016 22:06,02/20/2016 22:22,Business,Cary,Whitebridge,4.9,Commute
+05/08/2016 12:02,05/08/2016 12:05,Personal,Morrisville,Other,1.1,Meal/Entertain
+12/02/2016 12:38,12/02/2016 12:56,Personal,Unknown Location,Whitebridge,4.4,Meeting
+02/14/2016 10:24,02/14/2016 10:45,Business,Morrisville,Durham,4.6,Errand/Supplies
+04/04/2016 09:44,04/04/2016 09:49,Business,Cary,Morrisville,1.7,Customer Visit
+11/23/2016 20:59,11/23/2016 22:22,Business,Morrisville,Raleigh,18.8,Meal/Entertain
+05/11/2016 11:49,05/11/2016 11:54,Business,Whitebridge,Other,1.3,Airport/Travel
+07/17/2016 16:03,07/17/2016 16:12,Business,Unknown Location,Other,2.0,Airport/Travel
+08/13/2016 08:31,08/13/2016 09:12,Personal,Other,Garner,13.9,Meeting
+04/01/2016 21:06,04/01/2016 21:12,Business,Research Triangle Park,Cary,1.5,Meeting
+11/10/2016 09:58,11/10/2016 10:07,Business,Durham,Apex,2.9,Errand/Supplies
+02/07/2016 08:36,02/07/2016 08:59,Business,Other,Cary,5.3,Between Offices
+09/11/2016 10:41,09/11/2016 11:02,Personal,Other,Apex,4.4,Meal/Entertain
+05/16/2016 10:44,05/16/2016 10:52,Personal,Other,Cary,2.3,Between Offices
+09/20/2016 21:30,09/20/2016 21:43,Personal,Apex,Cary,2.9,Errand/Supplies
+10/03/2016 13:00,10/03/2016 13:10,Business,Durham,Apex,2.6,Meeting
+03/03/2016 17:21,03/03/2016 17:37,Personal,Whitebridge,Other,4.8,Commute
+07/06/2016 16:05,07/06/2016 16:36,Business,Other,Cary,7.1,Airport/Travel
+11/27/2016 12:11,11/27/2016 12:29,Business,Raleigh,Other,3.7,Moving
+06/02/2016 18:57,06/02/2016 19:02,Business,Other,Whitebridge,1.4,Airport/Travel
+02/13/2016 20:47,02/13/2016 20:51,Personal,Cary,Morrisville,1.7,Meeting
+10/30/2016 13:31,10/30/2016 13:42,Business,Morrisville,Research Triangle Park,2.6,Customer Visit
+09/12/2016 20:01,09/12/2016 20:03,Business,Cary,Unknown Location,1.1,Errand/Supplies
+07/26/2016 09:13,07/26/2016 09:40,Personal,Other,Whitebridge,6.5,Meeting
+12/13/2016 10:47,12/13/2016 11:05,Personal,Chapel Hill,Other,3.9,Charity
+03/13/2016 21:41,03/13/2016 21:46,Personal,Morrisville,Chapel Hill,1.1,Errand/Supplies
+05/04/2016 10:00,05/04/2016 10:04,Personal,Unknown Location,Unknown Location,1.6,Meal/Entertain
+02/19/2016 20:39,02/19/2016 20:45,Business,Morrisville,Durham,1.6,Charity
+02/28/2016 21:38,02/28/2016 21:57,Business,Raleigh,Morrisville,6.4,Airport/Travel
+08/06/2016 16:51,08/06/2016 17:21,Business,Cary,Morrisville,7.0,Customer Visit
+06/15/2016 09:43,06/15/2016 09:54,Business,Garner,Morrisville,3.9,Airport/Travel
+01/24/2016 11:21,01/24/2016 11:24,Personal,Other,Whitebridge,1.2,Meal/Entertain
+03/27/2016 17:35,03/27/2016 17:39,Business,Other,Morrisville,1.6,Meeting
+01/21/2016 10:06,01/21/2016 10:31,Personal,Research Triangle Park,Durham,6.2,Meeting
+03/21/2016 06:56,03/21/2016 07:04,Personal,Cary,Cary,3.2,Commute
+02/15/2016 15:26,02/15/2016 15:47,Business,Morrisville,Cary,4.9,Errand/Supplies
+12/20/2016 10:13,12/20/2016 10:17,Business,Durham,Chapel Hill,1.5,Customer Visit
+07/29/2016 13:11,07/29/2016 13:21,Business,Raleigh,Apex,4.1,Moving
+09/12/2016 08:40,09/12/2016 09:02,Business,Other,Other,6.8,Commute
+01/03/2016 13:12,01/03/2016 13:17,Business,Unknown Location,Garner,1.4,Commute
+11/12/2016 17:55,11/12/2016 18:17,Personal,Cary,Morrisville,5.8,Meeting
+08/25/2016 12:17,08/25/2016 12:20,Business,Other,Durham,1.2,Moving
+12/16/2016 21:31,12/16/2016 21:37,Personal,Cary,Durham,1.6,Meal/Entertain
+01/28/2016 17:18,01/28/2016 17:23,Personal,Raleigh,Whitebridge,1.8,Commute
+01/23/2016 09:47,01/23/2016 09:51,Personal,Morrisville,Cary,1.2,Airport/Travel
+01/15/2016 21:32,01/15/2016 21:38,Personal,Whitebridge,Other,1.4,Meeting
+10/30/2016 16:26,10/30/2016 16:33,Business,Unknown Location,Garner,1.7,Meal/Entertain
+04/27/2016 09:20,04/27/2016 09:25,Personal,Cary,Cary,1.9,Airport/Travel
+04/12/2016 18:57,04/12/2016 19:03,Business,Cary,Other,1.8,Airport/Travel
+01/28/2016 19:09,01/28/2016 19:16,Business,Unknown Location,Other,1.8,Meal/Entertain
+07/17/2016 17:08,07/17/2016 17:16,Business,Apex,Whitebridge,3.0,Airport/Travel
+05/18/2016 12:21,05/18/2016 12:27,Business,Durham,Cary,1.5,Moving
+05/23/2016 10:07,05/23/2016 10:33,Business,Unknown Location,Durham,7.4,Customer Visit
+06/24/2016 13:56,06/24/2016 14:02,Business,Other,Garner,2.2,Errand/Supplies
+03/28/2016 13:05,03/28/2016 13:15,Business,Other,Chapel Hill,2.8,Airport/Travel
+10/29/2016 21:53,10/29/2016 22:00,Business,Other,Cary,3.1,Errand/Supplies
+05/06/2016 13:20,05/06/2016 13:28,Business,Cary,Other,2.9,Meeting
+03/17/2016 06:26,03/17/2016 07:02,Personal,Research Triangle Park,Cary,14.1,Meeting
+09/15/2016 07:27,09/15/2016 07:39,Personal,Research Triangle Park,Research Triangle Park,3.5,Commute
+08/19/2016 21:15,08/19/2016 21:20,Business,Other,Other,1.3,Customer Visit
+04/21/2016 10:22,04/21/2016 10:31,Personal,Morrisville,Other,2.2,Meeting
+01/09/2016 21:42,01/09/2016 21:51,Business,Other,Other,2.2,Meeting
+10/25/2016 06:29,10/25/2016 06:37,Personal,Raleigh,Other,3.1,Meeting
+04/04/2016 17:40,04/04/2016 17:52,Business,Durham,Unknown Location,3.1,Meeting
+07/16/2016 16:33,07/16/2016 16:36,Personal,Whitebridge,Morrisville,1.1,Meeting
+12/23/2016 12:50,12/23/2016 13:09,Personal,Unknown Location,Cary,4.8,Airport/Travel
+01/29/2016 22:58,01/29/2016 23:20,Business,Research Triangle Park,Morrisville,4.7,Moving
+07/15/2016 17:29,07/15/2016 17:43,Business,Unknown Location,Whitebridge,4.2,Commute
+11/27/2016 08:35,11/27/2016 08:50,Business,Other,Durham,5.1,Meal/Entertain
+05/02/2016 09:41,05/02/2016 09:56,Personal,Whitebridge,Other,3.2,Airport/Travel
+12/25/2016 12:48,12/25/2016 13:05,Business,Morrisville,Durham,5.6,Customer Visit
+05/16/2016 22:43,05/16/2016 22:50,Business,Durham,Raleigh,2.8,Airport/Travel
+06/25/2016 20:31,06/25/2016 20:46,Personal,Raleigh,Whitebridge,3.3,Airport/Travel
+12/29/2016 15:28,12/29/2016 15:46,Personal,Cary,Cary,4.2,Airport/Travel
+04/06/2016 20:05,04/06/2016 20:11,Personal,Chapel Hill,Unknown Location,1.3,Meeting
+02/09/2016 09:10,02/09/2016 09:18,Business,Chapel Hill,Whitebridge,2.1,Meeting
+03/18/2016 12:33,03/18/2016 13:01,Business,Unknown Location,Chapel Hill,11.1,Airport/Travel
+12/15/2016 10:30,12/15/2016 10:38,Business,Cary,Research Triangle Park,2.4,Moving
+05/29/2016 12:04,05/29/2016 12:08,Business,Cary,Raleigh,1.1,Between Offices
+11/26/2016 16:26,11/26/2016 16:42,Personal,Other,Cary,3.9,Meal/Entertain
+09/05/2016 22:53,09/05/2016 23:06,Business,Whitebridge,Other,3.7,Meal/Entertain
+03/08/2016 15:10,03/08/2016 15:29,Business,Durham,Cary,6.2,Airport/Travel
+05/27/2016 07:09,05/27/2016 07:18,Business,Raleigh,Cary,2.5,Airport/Travel
+11/12/2016 11:45,11/12/2016 11:55,Personal,Garner,Apex,3.6,Between Offices
+12/28/2016 10:10,12/28/2016 10:14,Personal,Chapel Hill,Chapel Hill,1.9,Customer Visit
+10/21/2016 10:28,10/21/2016 10:33,Business,Other,Raleigh,2.0,Between Offices
+12/28/2016 07:42,12/28/2016 07:49,Personal,Chapel Hill,Raleigh,2.3,Airport/Travel
+08/17/2016 11:34,08/17/2016 11:44,Business,Cary,Cary,2.2,Meeting
+09/12/2016 10:29,09/12/2016 10:57,Business,Cary,Other,9.8,Meal/Entertain
+09/16/2016 16:41,09/16/2016 16:59,Business,Whitebridge,Cary,5.1,Meeting
+10/20/2016 10:51,10/20/2016 11:09,Personal,Durham,Research Triangle Park,3.8,Moving
+06/22/2016 09:46,06/22/2016 09:54,Business,Research Triangle Park,Whitebridge,3.2,Airport/Travel
+02/29/2016 15:01,02/29/2016 15:13,Business,Other,Whitebridge,2.7,Between Offices
+07/01/2016 08:20,07/01/2016 08:24,Business,Chapel Hill,Morrisville,1.2,Meeting
+09/26/2016 13:50,09/26/2016 14:22,Personal,Durham,Cary,10.1,Airport/Travel
+02/12/2016 20:43,02/12/2016 20:55,Business,Durham,Durham,4.7,Airport/Travel
+07/20/2016 12:31,07/20/2016 12:40,Personal,Raleigh,Durham,2.3,Customer Visit
+12/07/2016 17:25,12/07/2016 17:31,Business,Raleigh,Chapel Hill,1.5,Airport/Travel
+07/16/2016 17:00,07/16/2016 17:07,Business,Raleigh,Other,2.1,Between Offices
+10/14/2016 08:13,10/14/2016 08:32,Personal,Other,Whitebridge,5.3,Meal/Entertain
+08/14/2016 15:10,08/14/2016 15:42,Personal,Other,Raleigh,6.5,Customer Visit
+07/31/2016 10:53,07/31/2016 11:03,Business,Other,Other,3.9,Meal/Entertain
+06/04/2016 21:55,06/04/2016 22:06,Business,Other,Chapel Hill,3.5,Between Offices
+07/11/2016 08:00,07/11/2016 08:13,Personal,Garner,Research Triangle Park,2.8,Between Offices
+03/30/2016 20:45,03/30/2016 21:03,Business,Cary,Other,3.8,Airport/Travel
+04/05/2016 18:18,04/05/2016 18:27,Business,Cary,Other,3.7,Commute
+10/26/2016 15:31,10/26/2016 15:44,Business,Cary,Unknown Location,3.7,Meeting
+01/02/2016 10:16,01/02/2016 10:25,Business,Morrisville,Garner,2.2,Errand/Supplies
+03/04/2016 15:26,03/04/2016 15:34,Personal,Raleigh,Morrisville,1.7,Airport/Travel
+01/15/2016 09:48,01/15/2016 09:58,Business,Cary,Raleigh,2.1,Meal/Entertain
+11/02/2016 17:37,11/02/2016 17:48,Personal,Other,Other,3.2,Meeting
+11/17/2016 21:44,11/17/2016 22:07,Business,Cary,Apex,6.7,Meal/Entertain
+01/09/2016 14:10,01/09/2016 14:21,Personal,Other,Chapel Hill,3.9,Airport/Travel
+12/20/2016 10:22,12/20/2016 10:27,Business,Other,Other,1.6,Commute
+11/21/2016 17:03,11/21/2016 17:11,Personal,Apex,Apex,2.1,Errand/Supplies
+09/20/2016 12:49,09/20/2016 13:07,Business,Durham,Other,4.3,Airport/Travel
+03/26/2016 16:55,03/26/2016 17:05,Personal,Cary,Unknown Location,2.3,Airport/Travel
+05/18/2016 17:06,05/18/2016 17:17,Business,Unknown Location,Chapel Hill,3.5,Errand/Supplies
+01/07/2016 10:33,01/07/2016 10:42,Business,Other,Cary,2.1,Airport/Travel
+06/23/2016 11:06,06/23/2016 11:12,Business,Chapel Hill,Cary,1.8,Meeting
+10/13/2016 22:54,10/13/2016 23:07,Business,Unknown Location,Durham,3.5,Meeting
+08/01/2016 20:58,08/01/2016 21:03,Business,Durham,Other,1.3,Between Offices
+09/02/2016 17:19,09/02/2016 17:32,Business,Research Triangle Park,Research Triangle Park,4.9,Errand/Supplies
+11/01/2016 22:48,11/01/2016 23:25,Business,Cary,Other,12.7,Between Offices
+01/15/2016 09:14,01/15/2016 09:20,Personal,Other,Unknown Location,1.5,Meeting
+06/06/2016 10:13,06/06/2016 10:17,Business,Cary,Other,1.5,Meal/Entertain
+02/09/2016 06:49,02/09/2016 07:00,Business,Other,Morrisville,3.2,Meal/Entertain
+02/25/2016 07:50,02/25/2016 08:08,Personal,Durham,Other,4.6,Commute
+03/01/2016 14:02,03/01/2016 14:07,Business,Other,Cary,1.2,Airport/Travel
+03/04/2016 12:37,03/04/2016 13:02,Personal,Garner,Chapel Hill,8.7,Meeting
+01/15/2016 08:09,01/15/2016 08:43,Personal,Other,Morrisville,7.2,Moving
+06/27/2016 17:10,06/27/2016 17:42,Business,Morrisville,Cary,7.4,Meeting
+05/03/2016 22:36,05/03/2016 22:41,Business,Unknown Location,Morrisville,1.2,Meeting
+09/27/2016 12:45,09/27/2016 12:50,Business,Durham,Raleigh,1.7,Meeting
+01/03/2016 09:59,01/03/2016 10:05,Business,Durham,Morrisville,1.8,Airport/Travel
+07/06/2016 11:28,07/06/2016 11:41,Business,Morrisville,Garner,4.7,Meal/Entertain
+07/13/2016 19:13,07/13/2016 19:24,Business,Raleigh,Other,3.4,Meeting
+03/04/2016 20:07,03/04/2016 20:19,Business,Research Triangle Park,Whitebridge,3.4,Meeting
+12/26/2016 15:35,12/26/2016 15:49,Personal,Research Triangle Park,Chapel Hill,5.3,Meal/Entertain
+02/29/2016 18:18,02/29/2016 18:31,Personal,Morrisville,Research Triangle Park,3.0,Customer Visit
+04/25/2016 19:18,04/25/2016 20:11,Business,Morrisville,Whitebridge,15.0,Errand/Supplies
+08/31/2016 17:11,08/31/2016 17:15,Personal,Other,Morrisville,1.0,Errand/Supplies
+07/21/2016 20:33,07/21/2016 20:45,Business,Other,Durham,4.6,Moving
+07/21/2016 18:44,07/21/2016 18:55,Personal,Whitebridge,Cary,4.0,Between Offices
+02/03/2016 17:12,02/03/2016 17:21,Business,Raleigh,Research Triangle Park,2.4,Between Offices
+03/03/2016 13:53,03/03/2016 14:03,Business,Raleigh,Morrisville,2.8,Meal/Entertain
+10/30/2016 14:48,10/30/2016 15:13,Personal,Durham,Raleigh,6.2,Meeting
+07/01/2016 21:42,07/01/2016 21:56,Business,Unknown Location,Other,4.1,Commute
+09/18/2016 14:09,09/18/2016 14:25,Personal,Apex,Durham,5.9,Meal/Entertain
+09/07/2016 21:14,09/07/2016 21:26,Business,Cary,Unknown Location,4.3,Moving
+01/28/2016 08:31,01/28/2016 08:54,Personal,Apex,Other,4.8,Errand/Supplies
+11/05/2016 16:09,11/05/2016 16:17,Business,Raleigh,Raleigh,2.2,Between Offices
+12/04/2016 22:49,12/04/2016 23:01,Business,Garner,Raleigh,3.3,Airport/Travel
+12/04/2016 21:31,12/04/2016 21:43,Business,Apex,Morrisville,3.3,Airport/Travel
+10/06/2016 06:48,10/06/2016 06:51,Personal,Morrisville,Garner,1.1,Meal/Entertain
+07/15/2016 20:20,07/15/2016 20:46,Personal,Chapel Hill,Raleigh,7.4,Customer Visit
+01/17/2016 11:35,01/17/2016 11:55,Business,Other,Durham,4.6,Errand/Supplies
+09/08/2016 19:08,09/08/2016 19:15,Business,Other,Cary,2.2,Meal/Entertain
+10/18/2016 21:42,10/18/2016 21:56,Business,Durham,Whitebridge,3.7,Customer Visit
+08/31/2016 11:32,08/31/2016 11:35,Personal,Cary,Cary,1.2,Airport/Travel
+07/12/2016 17:49,07/12/2016 18:34,Business,Unknown Location,Other,13.7,Meeting
+10/29/2016 07:08,10/29/2016 07:31,Business,Durham,Other,7.0,Meeting
+01/14/2016 16:24,01/14/2016 16:28,Business,Garner,Unknown Location,1.3,Between Offices
+07/29/2016 17:03,07/29/2016 17:17,Business,Whitebridge,Chapel Hill,4.6,Meeting
+10/30/2016 08:58,10/30/2016 09:20,Personal,Morrisville,Cary,4.9,Airport/Travel
+06/21/2016 11:01,06/21/2016 11:10,Personal,Garner,Morrisville,3.6,Moving
+10/17/2016 22:57,10/17/2016 23:04,Personal,Whitebridge,Cary,2.8,Meeting
+10/28/2016 06:20,10/28/2016 06:29,Business,Unknown Location,Whitebridge,2.6,Airport/Travel
+02/20/2016 21:06,02/20/2016 21:20,Business,Other,Whitebridge,4.9,Meeting
+09/14/2016 16:10,09/14/2016 16:24,Business,Durham,Other,4.2,Charity
+04/13/2016 21:40,04/13/2016 22:12,Business,Whitebridge,Durham,7.3,Customer Visit
+04/19/2016 15:16,04/19/2016 15:21,Business,Morrisville,Morrisville,1.2,Commute
+04/25/2016 08:45,04/25/2016 09:04,Business,Morrisville,Cary,7.2,Charity
+05/19/2016 08:36,05/19/2016 08:59,Business,Durham,Whitebridge,6.4,Meal/Entertain
+06/26/2016 08:41,06/26/2016 09:06,Business,Morrisville,Apex,6.8,Airport/Travel
+08/09/2016 16:12,08/09/2016 16:20,Business,Whitebridge,Cary,2.8,Meal/Entertain
+08/20/2016 11:56,08/20/2016 12:00,Business,Morrisville,Chapel Hill,1.1,Commute
+10/22/2016 21:13,10/22/2016 21:33,Business,Apex,Other,4.6,Airport/Travel
+05/17/2016 19:59,05/17/2016 20:14,Business,Other,Garner,3.8,Meal/Entertain
+04/12/2016 17:29,04/12/2016 17:33,Personal,Unknown Location,Apex,1.5,Commute
+08/10/2016 19:20,08/10/2016 19:56,Personal,Chapel Hill,Morrisville,7.6,Commute
+07/30/2016 14:52,07/30/2016 14:58,Personal,Chapel Hill,Unknown Location,2.1,Commute
+04/30/2016 18:15,04/30/2016 18:19,Business,Cary,Cary,1.4,Moving
+06/07/2016 20:31,06/07/2016 20:44,Business,Cary,Other,3.7,Moving
+04/13/2016 11:17,04/13/2016 11:21,Business,Morrisville,Cary,1.5,Meeting
+12/03/2016 11:41,12/03/2016 12:17,Business,Cary,Durham,7.4,Meeting
+01/11/2016 07:55,01/11/2016 08:23,Business,Other,Unknown Location,8.6,Meal/Entertain
+02/02/2016 19:57,02/02/2016 20:07,Personal,Morrisville,Other,2.5,Between Offices
+07/22/2016 10:15,07/22/2016 10:21,Business,Morrisville,Research Triangle Park,1.4,Errand/Supplies
+09/24/2016 22:16,09/24/2016 22:24,Business,Other,Garner,3.3,Meeting
+03/03/2016 16:21,03/03/2016 16:51,Business,Apex,Cary,7.0,Airport/Travel
+08/04/2016 12:09,08/04/2016 12:13,Business,Garner,Whitebridge,1.4,Meeting
+08/13/2016 19:16,08/13/2016 19:36,Business,Other,Whitebridge,7.6,Airport/Travel
+07/10/2016 09:20,07/10/2016 09:33,Business,Chapel Hill,Cary,3.6,Commute
+05/22/2016 10:23,05/22/2016 10:33,Business,Raleigh,Unknown Location,3.1,Meal/Entertain
+01/11/2016 07:53,01/11/2016 08:17,Business,Cary,Apex,5.5,Between Offices
+12/19/2016 13:16,12/19/2016 13:28,Business,Other,Unknown Location,3.7,Meeting
+12/16/2016 09:34,12/16/2016 10:09,Business,Cary,Research Triangle Park,7.7,Airport/Travel
+01/05/2016 18:59,01/05/2016 19:42,Business,Raleigh,Other,13.7,Meeting
+04/30/2016 15:13,04/30/2016 15:34,Personal,Raleigh,Cary,7.5,Meeting
+11/19/2016 16:56,11/19/2016 17:23,Business,Research Triangle Park,Whitebridge,6.6,Between Offices
+05/20/2016 08:52,05/20/2016 09:14,Business,Other,Chapel Hill,6.0,Customer Visit
+06/19/2016 19:56,06/19/2016 20:21,Business,Other,Other,9.4,Customer Visit
+12/23/2016 14:32,12/23/2016 14:36,Business,Cary,Durham,1.2,Charity
+06/16/2016 20:44,06/16/2016 20:46,Business,Other,Other,1.1,Errand/Supplies
+11/18/2016 20:50,11/18/2016 21:01,Business,Chapel Hill,Unknown Location,4.4,Airport/Travel
+11/17/2016 15:20,11/17/2016 15:30,Business,Durham,Cary,3.9,Between Offices
+09/21/2016 10:54,09/21/2016 11:08,Personal,Cary,Durham,4.0,Customer Visit
+08/19/2016 21:55,08/19/2016 22:12,Business,Whitebridge,Other,5.4,Customer Visit
+06/16/2016 15:12,06/16/2016 15:16,Business,Other,Durham,1.3,Errand/Supplies
+07/12/2016 13:01,07/12/2016 13:53,Personal,Cary,Other,10.9,Meal/Entertain
+11/16/2016 13:58,11/16/2016 14:02,Personal,Other,Morrisville,1.3,Meeting
+12/25/2016 11:03,12/25/2016 11:12,Business,Morrisville,Cary,2.7,Customer Visit
+03/17/2016 08:23,03/17/2016 08:29,Business,Morrisville,Morrisville,1.6,Meal/Entertain
+09/26/2016 19:49,09/26/2016 20:23,Business,Morrisville,Other,9.4,Commute
+03/01/2016 13:45,03/01/2016 13:53,Business,Morrisville,Raleigh,1.8,Airport/Travel
+05/27/2016 21:24,05/27/2016 21:30,Personal,Whitebridge,Garner,1.5,Commute
+04/20/2016 15:46,04/20/2016 16:03,Personal,Cary,Morrisville,4.8,Airport/Travel
+03/15/2016 06:18,03/15/2016 06:59,Business,Durham,Raleigh,13.5,Moving
+05/07/2016 17:37,05/07/2016 17:54,Business,Other,Whitebridge,4.8,Meeting
+08/28/2016 10:55,08/28/2016 11:04,Business,Chapel Hill,Other,2.3,Airport/Travel
+12/31/2016 18:45,12/31/2016 18:56,Personal,Whitebridge,Other,2.8,Airport/Travel
+02/18/2016 07:03,02/18/2016 07:10,Business,Raleigh,Durham,2.3,Airport/Travel
+11/06/2016 07:00,11/06/2016 07:08,Personal,Garner,Other,2.0,Airport/Travel
+07/21/2016 17:08,07/21/2016 17:56,Personal,Garner,Other,12.5,Errand/Supplies
+04/01/2016 14:10,04/01/2016 14:25,Business,Cary,Whitebridge,3.3,Customer Visit
+03/08/2016 08:20,03/08/2016 08:38,Personal,Unknown Location,Cary,5.1,Meeting
+02/29/2016 16:02,02/29/2016 16:53,Business,Chapel Hill,Other,13.8,Meal/Entertain
+07/03/2016 19:18,07/03/2016 19:45,Business,Other,Cary,8.8,Meal/Entertain
+09/21/2016 16:27,09/21/2016 16:54,Business,Apex,Other,8.4,Customer Visit
+03/18/2016 20:03,03/18/2016 20:07,Business,Durham,Morrisville,1.7,Meal/Entertain
+01/19/2016 21:16,01/19/2016 21:21,Business,Research Triangle Park,Apex,1.6,Meeting
+09/10/2016 07:28,09/10/2016 07:38,Personal,Other,Whitebridge,2.5,Commute
+08/22/2016 21:07,08/22/2016 21:40,Business,Cary,Cary,7.2,Meal/Entertain
+06/27/2016 08:13,06/27/2016 08:36,Business,Whitebridge,Apex,7.8,Between Offices
+09/17/2016 14:36,09/17/2016 15:09,Personal,Apex,Other,8.4,Commute
+01/03/2016 22:49,01/03/2016 23:02,Personal,Cary,Apex,3.8,Meal/Entertain
+05/06/2016 21:43,05/06/2016 21:47,Business,Garner,Raleigh,1.3,Meal/Entertain
+12/14/2016 09:25,12/14/2016 09:37,Business,Whitebridge,Durham,2.6,Airport/Travel
+06/14/2016 10:01,06/14/2016 10:06,Business,Unknown Location,Raleigh,1.3,Airport/Travel
+08/20/2016 14:38,08/20/2016 14:53,Personal,Garner,Chapel Hill,4.6,Meal/Entertain
+12/01/2016 20:20,12/01/2016 21:13,Business,Durham,Whitebridge,10.8,Commute
+03/07/2016 12:55,03/07/2016 12:59,Business,Other,Raleigh,1.2,Errand/Supplies
+01/29/2016 08:35,01/29/2016 09:13,Personal,Other,Raleigh,11.1,Charity
+05/10/2016 11:15,05/10/2016 12:11,Business,Unknown Location,Apex,12.2,Meeting
+01/11/2016 12:10,01/11/2016 12:19,Personal,Raleigh,Cary,2.6,Errand/Supplies
+03/02/2016 15:31,03/02/2016 15:58,Business,Garner,Durham,6.4,Charity
+12/16/2016 10:22,12/16/2016 10:43,Personal,Cary,Cary,4.7,Meal/Entertain
+04/12/2016 21:28,04/12/2016 21:58,Personal,Durham,Raleigh,8.2,Between Offices
+11/03/2016 19:05,11/03/2016 19:30,Business,Durham,Cary,5.7,Between Offices
+08/10/2016 19:05,08/10/2016 19:08,Personal,Whitebridge,Cary,1.1,Meeting
+12/12/2016 13:41,12/12/2016 13:55,Business,Unknown Location,Durham,4.9,Meal/Entertain
+09/26/2016 22:05,09/26/2016 22:12,Business,Raleigh,Morrisville,2.1,Meeting
+06/02/2016 10:08,06/02/2016 10:23,Business,Cary,Research Triangle Park,4.8,Meeting
+09/24/2016 19:18,09/24/2016 19:32,Business,Other,Other,3.8,Airport/Travel
+09/19/2016 09:32,09/19/2016 09:39,Personal,Raleigh,Garner,2.8,Airport/Travel
+05/09/2016 17:16,05/09/2016 17:33,Business,Raleigh,Apex,3.9,Airport/Travel
+02/28/2016 20:11,02/28/2016 20:39,Business,Cary,Other,6.1,Between Offices
+02/12/2016 19:56,02/12/2016 20:12,Business,Other,Other,5.1,Meeting
+12/09/2016 20:39,12/09/2016 21:00,Business,Morrisville,Morrisville,6.5,Meal/Entertain
+04/18/2016 11:05,04/18/2016 11:27,Personal,Whitebridge,Durham,5.6,Meeting
+08/10/2016 06:00,08/10/2016 06:06,Business,Morrisville,Research Triangle Park,2.7,Customer Visit
+08/23/2016 18:55,08/23/2016 19:15,Business,Durham,Whitebridge,4.6,Commute
+06/04/2016 17:44,06/04/2016 18:03,Business,Research Triangle Park,Unknown Location,4.7,Meal/Entertain
+06/03/2016 08:08,06/03/2016 08:12,Business,Cary,Whitebridge,1.5,Meal/Entertain
+12/22/2016 12:54,12/22/2016 12:58,Business,Morrisville,Research Triangle Park,1.1,Meeting
+11/28/2016 13:27,11/28/2016 14:00,Business,Other,Whitebridge,7.2,Airport/Travel
+04/07/2016 08:19,04/07/2016 08:35,Personal,Morrisville,Morrisville,5.9,Meal/Entertain
+01/12/2016 09:10,01/12/2016 09:48,Business,Other,Unknown Location,8.8,Meal/Entertain
+09/05/2016 21:01,09/05/2016 21:30,Personal,Other,Raleigh,7.5,Commute
+05/30/2016 18:03,05/30/2016 18:09,Business,Apex,Whitebridge,2.4,Meal/Entertain
+07/31/2016 21:47,07/31/2016 22:03,Business,Other,Other,3.9,Meal/Entertain
+01/19/2016 21:25,01/19/2016 21:37,Business,Morrisville,Garner,3.2,Meeting
+12/13/2016 21:14,12/13/2016 21:33,Personal,Other,Morrisville,5.2,Moving
+10/22/2016 16:35,10/22/2016 16:40,Personal,Chapel Hill,Morrisville,1.2,Charity
+08/30/2016 09:31,08/30/2016 09:48,Business,Apex,Research Triangle Park,4.2,Meeting
+12/23/2016 19:01,12/23/2016 19:07,Personal,Apex,Cary,1.6,Between Offices
+06/25/2016 20:14,06/25/2016 20:27,Business,Morrisville,Other,3.4,Errand/Supplies
+11/04/2016 20:08,11/04/2016 20:43,Business,Durham,Apex,8.2,Airport/Travel
+08/01/2016 17:50,08/01/2016 18:05,Personal,Cary,Apex,3.1,Customer Visit
+11/14/2016 12:18,11/14/2016 12:31,Business,Cary,Cary,4.9,Airport/Travel
+03/07/2016 11:12,03/07/2016 11:17,Business,Chapel Hill,Whitebridge,1.6,Meeting
+09/09/2016 15:15,09/09/2016 15:19,Personal,Other,Unknown Location,1.8,Between Offices
+07/02/2016 14:22,07/02/2016 14:36,Personal,Morrisville,Other,4.8,Commute
+01/17/2016 08:21,01/17/2016 08:32,Business,Research Triangle Park,Research Triangle Park,2.9,Airport/Travel
+10/14/2016 13:31,10/14/2016 13:37,Personal,Morrisville,Whitebridge,2.0,Meal/Entertain
+01/24/2016 14:57,01/24/2016 15:03,Business,Whitebridge,Cary,1.5,Customer Visit
+11/05/2016 09:45,11/05/2016 09:50,Personal,Whitebridge,Cary,1.2,Errand/Supplies
+02/26/2016 09:50,02/26/2016 10:08,Business,Cary,Durham,4.1,Airport/Travel
+10/14/2016 07:32,10/14/2016 07:37,Business,Chapel Hill,Whitebridge,1.4,Meal/Entertain
+07/04/2016 11:46,07/04/2016 11:53,Personal,Morrisville,Morrisville,2.2,Errand/Supplies
+09/12/2016 09:09,09/12/2016 09:24,Business,Cary,Other,4.5,Airport/Travel
+03/03/2016 12:28,03/03/2016 13:23,Business,Other,Cary,12.6,Meal/Entertain
+05/05/2016 21:21,05/05/2016 21:27,Personal,Other,Morrisville,2.1,Meal/Entertain
+07/09/2016 19:23,07/09/2016 19:36,Business,Other,Other,4.3,Moving
+08/03/2016 13:08,08/03/2016 13:30,Personal,Other,Chapel Hill,6.4,Errand/Supplies
+08/22/2016 22:50,08/22/2016 23:13,Personal,Other,Unknown Location,4.8,Customer Visit
+03/15/2016 06:45,03/15/2016 07:16,Business,Raleigh,Whitebridge,6.5,Airport/Travel
+06/22/2016 16:25,06/22/2016 17:06,Business,Other,Other,14.4,Customer Visit
+07/20/2016 07:42,07/20/2016 08:09,Personal,Cary,Garner,9.5,Meal/Entertain
+01/30/2016 22:18,01/30/2016 22:31,Personal,Morrisville,Cary,2.8,Moving
+06/04/2016 16:58,06/04/2016 17:08,Business,Morrisville,Garner,2.4,Meeting
+11/08/2016 10:44,11/08/2016 10:55,Personal,Cary,Morrisville,2.7,Charity
+11/15/2016 20:44,11/15/2016 20:54,Personal,Other,Cary,2.4,Customer Visit
+04/11/2016 15:05,04/11/2016 15:08,Personal,Raleigh,Morrisville,1.1,Meal/Entertain
+09/23/2016 15:13,09/23/2016 15:18,Business,Whitebridge,Other,1.3,Meeting
+06/23/2016 11:01,06/23/2016 11:05,Business,Other,Other,1.1,Meeting
+05/12/2016 13:53,05/12/2016 14:18,Business,Garner,Raleigh,6.0,Airport/Travel
+02/26/2016 07:53,02/26/2016 08:03,Business,Other,Durham,2.6,Between Offices
+03/04/2016 07:48,03/04/2016 08:00,Personal,Cary,Unknown Location,4.5,Errand/Supplies
+10/20/2016 06:29,10/20/2016 06:36,Business,Chapel Hill,Morrisville,2.4,Meeting
+10/16/2016 13:22,10/16/2016 13:31,Business,Chapel Hill,Other,2.2,Airport/Travel
+12/10/2016 10:45,12/10/2016 10:56,Business,Cary,Morrisville,2.6,Meal/Entertain
+06/16/2016 22:37,06/16/2016 22:44,Personal,Other,Cary,1.7,Airport/Travel
+02/20/2016 10:45,02/20/2016 10:54,Personal,Cary,Cary,2.8,Moving
+02/01/2016 19:56,02/01/2016 20:00,Business,Other,Morrisville,1.5,Errand/Supplies
+07/08/2016 22:25,07/08/2016 22:40,Business,Durham,Unknown Location,4.0,Airport/Travel
+05/15/2016 21:40,05/15/2016 21:50,Personal,Other,Chapel Hill,2.8,Meeting
+08/01/2016 11:09,08/01/2016 11:21,Personal,Morrisville,Unknown Location,3.3,Customer Visit
+03/07/2016 22:55,03/07/2016 23:09,Business,Apex,Cary,3.5,Errand/Supplies
+08/30/2016 07:47,08/30/2016 07:53,Business,Whitebridge,Garner,1.6,Meal/Entertain
+11/04/2016 19:07,11/04/2016 19:12,Personal,Durham,Morrisville,1.4,Errand/Supplies
+09/24/2016 10:07,09/24/2016 10:19,Business,Whitebridge,Research Triangle Park,2.5,Customer Visit
+05/30/2016 21:01,05/30/2016 21:18,Business,Durham,Morrisville,6.2,Commute
+08/03/2016 07:59,08/03/2016 08:39,Personal,Other,Morrisville,8.5,Airport/Travel
+04/03/2016 21:00,04/03/2016 21:04,Personal,Unknown Location,Other,1.4,Airport/Travel
+08/01/2016 21:36,08/01/2016 21:43,Personal,Durham,Durham,2.2,Customer Visit
+07/12/2016 21:53,07/12/2016 22:13,Personal,Other,Whitebridge,5.2,Meeting
+09/15/2016 20:48,09/15/2016 20:58,Personal,Other,Other,3.0,Errand/Supplies
+02/15/2016 19:24,02/15/2016 19:30,Personal,Chapel Hill,Morrisville,1.9,Airport/Travel
+01/24/2016 20:47,01/24/2016 20:52,Business,Garner,Cary,2.1,Meeting
+12/28/2016 06:36,12/28/2016 06:55,Business,Apex,Other,4.3,Customer Visit
+10/14/2016 09:41,10/14/2016 09:52,Personal,Morrisville,Other,3.7,Errand/Supplies
+10/22/2016 07:36,10/22/2016 07:51,Personal,Chapel Hill,Morrisville,3.5,Meal/Entertain
+01/10/2016 09:42,01/10/2016 10:12,Business,Cary,Cary,10.2,Commute
+05/20/2016 12:15,05/20/2016 12:46,Personal,Other,Whitebridge,6.9,Meal/Entertain
+08/15/2016 08:51,08/15/2016 09:02,Business,Whitebridge,Apex,3.5,Errand/Supplies
+01/24/2016 21:55,01/24/2016 22:28,Personal,Other,Durham,10.1,Meeting
+07/31/2016 06:55,07/31/2016 07:07,Business,Cary,Raleigh,3.5,Between Offices
+02/28/2016 09:34,02/28/2016 09:38,Business,Other,Other,1.6,Meeting
+02/15/2016 10:19,02/15/2016 11:05,Business,Whitebridge,Cary,11.1,Errand/Supplies
+11/10/2016 16:11,11/10/2016 16:13,Personal,Research Triangle Park,Whitebridge,1.1,Meal/Entertain
+02/20/2016 16:09,02/20/2016 16:18,Business,Unknown Location,Chapel Hill,2.8,Between Offices
+03/02/2016 07:12,03/02/2016 07:19,Business,Cary,Other,1.9,Airport/Travel
+09/09/2016 22:48,09/09/2016 23:04,Business,Durham,Cary,3.3,Meeting
+02/01/2016 16:29,02/01/2016 16:38,Personal,Research Triangle Park,Whitebridge,3.7,Meeting
+07/27/2016 13:58,07/27/2016 14:24,Personal,Other,Other,8.2,Charity
+12/11/2016 09:15,12/11/2016 09:38,Business,Unknown Location,Raleigh,5.8,Airport/Travel
+06/04/2016 19:28,06/04/2016 19:33,Business,Other,Morrisville,1.3,Meal/Entertain
+03/13/2016 17:34,03/13/2016 18:41,Business,Whitebridge,Raleigh,15.1,Customer Visit
+08/04/2016 20:02,08/04/2016 20:05,Business,Whitebridge,Raleigh,1.0,Meeting
+11/30/2016 11:00,11/30/2016 11:05,Business,Research Triangle Park,Whitebridge,1.2,Airport/Travel
+11/02/2016 14:53,11/02/2016 15:16,Business,Whitebridge,Unknown Location,4.8,Airport/Travel
+10/26/2016 22:18,10/26/2016 22:23,Business,Whitebridge,Raleigh,1.2,Meal/Entertain
+02/05/2016 15:05,02/05/2016 15:12,Personal,Research Triangle Park,Cary,2.7,Meeting
+10/11/2016 14:56,10/11/2016 15:07,Business,Whitebridge,Cary,2.9,Meeting
+12/15/2016 16:40,12/15/2016 16:48,Business,Whitebridge,Cary,2.0,Meeting
+05/19/2016 13:42,05/19/2016 14:30,Personal,Unknown Location,Other,14.6,Moving
+11/02/2016 16:01,11/02/2016 16:27,Business,Chapel Hill,Morrisville,9.2,Customer Visit
+11/07/2016 21:00,11/07/2016 21:36,Business,Raleigh,Other,8.7,Meeting
+10/11/2016 21:48,10/11/2016 21:55,Personal,Chapel Hill,Apex,2.7,Meeting
+10/02/2016 06:57,10/02/2016 07:25,Business,Cary,Whitebridge,6.9,Commute
+06/29/2016 18:52,06/29/2016 19:06,Business,Chapel Hill,Garner,4.1,Meeting
+03/04/2016 20:23,03/04/2016 20:59,Business,Cary,Whitebridge,10.2,Airport/Travel
+01/11/2016 14:43,01/11/2016 15:15,Business,Whitebridge,Other,9.5,Meeting
+11/10/2016 15:51,11/10/2016 16:07,Personal,Morrisville,Chapel Hill,5.2,Meeting
+07/04/2016 07:17,07/04/2016 07:31,Business,Cary,Morrisville,3.3,Moving
+04/17/2016 06:12,04/17/2016 07:12,Business,Other,Morrisville,14.8,Meal/Entertain
+05/22/2016 22:31,05/22/2016 22:35,Personal,Cary,Other,1.6,Meeting
+12/10/2016 11:04,12/10/2016 11:21,Personal,Research Triangle Park,Raleigh,4.0,Customer Visit
+05/12/2016 13:56,05/12/2016 14:11,Personal,Cary,Other,3.5,Charity
+12/13/2016 06:44,12/13/2016 07:03,Business,Durham,Raleigh,4.8,Commute
+08/20/2016 06:27,08/20/2016 06:48,Business,Cary,Unknown Location,4.4,Airport/Travel
+06/14/2016 19:54,06/14/2016 20:53,Business,Unknown Location,Apex,18.7,Commute
+08/26/2016 21:23,08/26/2016 21:31,Business,Whitebridge,Unknown Location,3.4,Airport/Travel
+01/25/2016 14:58,01/25/2016 15:08,Personal,Whitebridge,Other,2.8,Airport/Travel
+07/19/2016 12:21,07/19/2016 12:26,Personal,Cary,Morrisville,1.3,Moving
+04/25/2016 19:04,04/25/2016 19:31,Personal,Other,Other,9.3,Commute
+06/08/2016 08:40,06/08/2016 08:51,Personal,Other,Whitebridge,4.3,Airport/Travel
+01/13/2016 16:53,01/13/2016 16:58,Business,Other,Raleigh,2.0,Airport/Travel
+06/23/2016 07:52,06/23/2016 08:02,Personal,Chapel Hill,Other,2.4,Meeting
+11/03/2016 20:48,11/03/2016 20:52,Business,Cary,Whitebridge,1.3,Errand/Supplies
+02/13/2016 07:58,02/13/2016 08:01,Personal,Apex,Research Triangle Park,1.1,Airport/Travel
+03/06/2016 07:58,03/06/2016 08:14,Business,Morrisville,Raleigh,6.4,Commute
+11/16/2016 19:04,11/16/2016 19:07,Business,Whitebridge,Unknown Location,1.4,Meeting
+05/30/2016 18:25,05/30/2016 18:30,Personal,Cary,Chapel Hill,1.3,Meeting
+11/02/2016 06:29,11/02/2016 06:40,Business,Chapel Hill,Raleigh,2.6,Errand/Supplies
+06/22/2016 06:29,06/22/2016 06:42,Personal,Morrisville,Cary,3.4,Airport/Travel
+02/22/2016 06:38,02/22/2016 06:58,Business,Apex,Morrisville,5.2,Meeting
+10/20/2016 10:40,10/20/2016 10:51,Personal,Other,Garner,3.4,Meeting
+11/13/2016 20:11,11/13/2016 20:19,Business,Durham,Other,1.9,Meal/Entertain
+03/06/2016 15:37,03/06/2016 15:51,Personal,Other,Other,2.9,Commute
+06/08/2016 10:09,06/08/2016 10:21,Business,Cary,Other,3.1,Airport/Travel
+07/07/2016 06:33,07/07/2016 06:49,Personal,Other,Other,3.9,Meeting
+05/01/2016 22:52,05/01/2016 23:24,Business,Whitebridge,Morrisville,7.0,Customer Visit
+06/25/2016 12:12,06/25/2016 12:25,Business,Other,Morrisville,4.4,Customer Visit
+06/23/2016 12:42,06/23/2016 12:55,Business,Other,Other,3.2,Customer Visit
+11/03/2016 16:54,11/03/2016 17:13,Business,Cary,Unknown Location,3.9,Meeting
+08/02/2016 16:10,08/02/2016 16:16,Personal,Whitebridge,Cary,1.4,Customer Visit
+09/10/2016 13:58,09/10/2016 14:01,Business,Cary,Morrisville,1.0,Meeting
+08/26/2016 12:15,08/26/2016 12:29,Business,Apex,Apex,3.2,Airport/Travel
+07/11/2016 12:25,07/11/2016 12:33,Business,Whitebridge,Unknown Location,1.7,Airport/Travel
+01/06/2016 08:22,01/06/2016 08:25,Business,Durham,Other,1.1,Airport/Travel
+08/13/2016 12:40,08/13/2016 12:57,Business,Garner,Chapel Hill,3.9,Meeting
+01/16/2016 12:12,01/16/2016 12:18,Personal,Cary,Morrisville,2.1,Meeting
+03/30/2016 16:54,03/30/2016 17:04,Business,Durham,Other,3.7,Meal/Entertain
+03/31/2016 14:58,03/31/2016 15:04,Business,Raleigh,Other,1.4,Airport/Travel
+07/13/2016 09:21,07/13/2016 09:54,Business,Unknown Location,Other,10.2,Meeting
+07/08/2016 17:42,07/08/2016 17:48,Business,Morrisville,Other,1.6,Meal/Entertain
+12/30/2016 08:07,12/30/2016 08:14,Business,Other,Other,1.5,Customer Visit
+04/08/2016 18:44,04/08/2016 18:54,Personal,Cary,Other,2.6,Charity
+01/24/2016 12:54,01/24/2016 13:10,Business,Other,Morrisville,3.6,Errand/Supplies
+05/06/2016 07:40,05/06/2016 08:09,Business,Durham,Durham,6.3,Meal/Entertain
+10/26/2016 21:13,10/26/2016 21:36,Business,Research Triangle Park,Cary,5.3,Between Offices
+03/26/2016 22:24,03/26/2016 22:47,Business,Morrisville,Raleigh,5.6,Airport/Travel
+07/10/2016 21:33,07/10/2016 21:43,Business,Cary,Other,3.1,Meal/Entertain
+09/26/2016 21:45,09/26/2016 22:27,Business,Cary,Durham,11.4,Moving
+07/24/2016 07:13,07/24/2016 07:18,Business,Durham,Cary,1.8,Meeting
+07/21/2016 12:19,07/21/2016 12:28,Business,Raleigh,Chapel Hill,2.8,Airport/Travel
+07/10/2016 14:35,07/10/2016 14:40,Business,Morrisville,Cary,1.3,Meal/Entertain
+08/15/2016 22:22,08/15/2016 22:26,Personal,Durham,Cary,1.9,Meal/Entertain
+11/14/2016 16:27,11/14/2016 16:37,Personal,Garner,Morrisville,3.0,Meeting
+09/11/2016 16:17,09/11/2016 16:24,Personal,Other,Morrisville,2.6,Airport/Travel
+05/15/2016 08:22,05/15/2016 08:50,Personal,Apex,Chapel Hill,8.7,Between Offices
+09/19/2016 08:50,09/19/2016 08:56,Business,Cary,Other,2.1,Meeting
+02/06/2016 17:02,02/06/2016 17:14,Personal,Cary,Other,3.6,Airport/Travel
+05/08/2016 15:47,05/08/2016 16:14,Business,Raleigh,Whitebridge,6.6,Airport/Travel
+04/07/2016 10:54,04/07/2016 11:18,Business,Other,Garner,5.7,Airport/Travel
+01/05/2016 15:18,01/05/2016 15:48,Personal,Other,Research Triangle Park,6.8,Meal/Entertain
+07/26/2016 06:30,07/26/2016 06:52,Business,Whitebridge,Durham,4.5,Customer Visit
+07/22/2016 13:14,07/22/2016 13:30,Business,Unknown Location,Morrisville,5.3,Errand/Supplies
+09/21/2016 20:46,09/21/2016 21:08,Business,Durham,Whitebridge,6.6,Commute
+06/09/2016 12:27,06/09/2016 12:52,Business,Whitebridge,Whitebridge,5.9,Meeting
+08/12/2016 20:54,08/12/2016 21:06,Personal,Durham,Apex,3.7,Customer Visit
+03/06/2016 15:47,03/06/2016 15:51,Business,Cary,Garner,1.0,Meal/Entertain
+06/22/2016 13:26,06/22/2016 13:38,Business,Other,Raleigh,2.8,Moving
+06/02/2016 16:37,06/02/2016 16:41,Business,Research Triangle Park,Morrisville,1.1,Meeting
+03/19/2016 16:36,03/19/2016 16:53,Business,Raleigh,Unknown Location,4.3,Between Offices
+10/20/2016 18:24,10/20/2016 18:30,Personal,Chapel Hill,Whitebridge,1.8,Airport/Travel
+07/16/2016 12:30,07/16/2016 12:35,Business,Unknown Location,Chapel Hill,1.4,Customer Visit
+11/23/2016 15:05,11/23/2016 15:11,Personal,Morrisville,Morrisville,1.6,Meal/Entertain
+01/17/2016 21:01,01/17/2016 21:05,Personal,Chapel Hill,Unknown Location,1.7,Errand/Supplies
+05/25/2016 12:14,05/25/2016 12:22,Business,Other,Other,2.1,Airport/Travel
+01/30/2016 17:33,01/30/2016 17:36,Personal,Other,Morrisville,1.0,Between Offices
+07/19/2016 11:07,07/19/2016 11:12,Business,Unknown Location,Morrisville,1.5,Airport/Travel
+07/18/2016 12:08,07/18/2016 12:33,Business,Apex,Morrisville,7.8,Airport/Travel
+03/22/2016 15:37,03/22/2016 15:44,Business,Durham,Whitebridge,1.8,Customer Visit
+05/21/2016 12:00,05/21/2016 13:00,Business,Chapel Hill,Cary,16.7,Meal/Entertain
+11/05/2016 13:33,11/05/2016 13:42,Personal,Other,Chapel Hill,2.3,Errand/Supplies
+08/23/2016 20:36,08/23/2016 20:39,Business,Garner,Cary,1.1,Meal/Entertain
+06/26/2016 15:25,06/26/2016 15:44,Personal,Durham,Whitebridge,4.2,Meeting
+07/31/2016 13:11,07/31/2016 13:48,Business,Unknown Location,Unknown Location,8.7,Errand/Supplies
+07/15/2016 11:44,07/15/2016 11:57,Business,Whitebridge,Chapel Hill,3.8,Airport/Travel
+05/02/2016 11:17,05/02/2016 11:48,Business,Whitebridge,Raleigh,8.1,Meeting
+12/23/2016 12:58,12/23/2016 13:14,Business,Raleigh,Unknown Location,3.3,Meeting
+03/03/2016 17:04,03/03/2016 17:25,Personal,Other,Garner,5.7,Meeting
+07/28/2016 20:10,07/28/2016 20:17,Personal,Chapel Hill,Apex,2.0,Errand/Supplies
+01/14/2016 08:40,01/14/2016 09:01,Personal,Whitebridge,Whitebridge,5.0,Airport/Travel
+06/24/2016 18:54,06/24/2016 18:58,Personal,Cary,Durham,1.7,Meal/Entertain
+02/28/2016 10:20,02/28/2016 10:37,Business,Other,Chapel Hill,4.7,Meeting
+02/04/2016 08:35,02/04/2016 08:54,Business,Morrisville,Morrisville,4.6,Meeting
+03/12/2016 21:52,03/12/2016 21:58,Business,Whitebridge,Morrisville,2.1,Meal/Entertain
+11/06/2016 09:11,11/06/2016 09:19,Personal,Whitebridge,Cary,2.2,Meeting
+03/27/2016 08:42,03/27/2016 09:06,Business,Chapel Hill,Whitebridge,5.8,Commute
+08/13/2016 17:11,08/13/2016 17:15,Business,Other,Apex,1.8,Airport/Travel
+04/20/2016 20:44,04/20/2016 20:48,Business,Morrisville,Other,1.2,Airport/Travel
+11/24/2016 09:24,11/24/2016 09:41,Personal,Raleigh,Morrisville,4.9,Meeting
+01/03/2016 07:49,01/03/2016 07:56,Personal,Other,Cary,2.6,Meal/Entertain
+07/10/2016 13:12,07/10/2016 13:16,Personal,Other,Whitebridge,1.3,Customer Visit
+06/21/2016 12:43,06/21/2016 12:57,Business,Morrisville,Cary,4.7,Meeting
+12/06/2016 11:46,12/06/2016 11:51,Business,Raleigh,Other,1.6,Airport/Travel
+06/16/2016 16:35,06/16/2016 16:52,Business,Garner,Other,4.3,Errand/Supplies
+07/21/2016 19:07,07/21/2016 19:12,Personal,Morrisville,Raleigh,1.9,Meeting
+03/29/2016 06:25,03/29/2016 06:36,Business,Other,Unknown Location,4.5,Between Offices
+08/22/2016 13:04,08/22/2016 13:18,Business,Durham,Garner,4.6,Commute
+01/23/2016 08:56,01/23/2016 09:01,Personal,Unknown Location,Other,1.8,Errand/Supplies
+09/12/2016 09:45,09/12/2016 10:02,Business,Durham,Whitebridge,3.6,Between Offices
+03/28/2016 14:06,03/28/2016 14:26,Personal,Cary,Research Triangle Park,4.1,Charity
+12/13/2016 10:21,12/13/2016 10:28,Business,Raleigh,Cary,1.6,Meeting
+12/07/2016 21:04,12/07/2016 21:13,Personal,Unknown Location,Whitebridge,2.4,Errand/Supplies
+08/17/2016 18:32,08/17/2016 18:45,Personal,Durham,Cary,4.4,Meeting
+12/26/2016 06:14,12/26/2016 06:18,Personal,Research Triangle Park,Cary,1.1,Commute
+06/07/2016 13:47,06/07/2016 13:56,Business,Durham,Raleigh,2.9,Airport/Travel
+01/31/2016 10:23,01/31/2016 10:32,Business,Chapel Hill,Chapel Hill,3.3,Airport/Travel
+04/14/2016 07:15,04/14/2016 07:53,Business,Durham,Durham,9.6,Commute
+06/17/2016 10:17,06/17/2016 10:27,Personal,Cary,Durham,2.3,Errand/Supplies
+09/23/2016 19:41,09/23/2016 20:09,Personal,Durham,Garner,6.6,Meal/Entertain
+06/18/2016 16:15,06/18/2016 16:19,Personal,Unknown Location,Durham,1.8,Meeting
+12/17/2016 13:38,12/17/2016 14:08,Business,Other,Morrisville,7.9,Airport/Travel
+08/14/2016 06:04,08/14/2016 06:24,Personal,Morrisville,Morrisville,7.8,Meeting
+01/27/2016 10:13,01/27/2016 10:17,Business,Whitebridge,Durham,1.4,Airport/Travel
+04/14/2016 13:32,04/14/2016 13:37,Business,Cary,Cary,1.3,Airport/Travel
+03/25/2016 12:15,03/25/2016 12:26,Business,Apex,Cary,2.8,Airport/Travel
+05/26/2016 20:40,05/26/2016 20:47,Business,Cary,Garner,1.7,Errand/Supplies
+02/10/2016 17:25,02/10/2016 17:34,Business,Other,Morrisville,2.6,Meal/Entertain
+09/15/2016 19:48,09/15/2016 19:55,Personal,Other,Apex,1.6,Errand/Supplies
+01/11/2016 18:27,01/11/2016 18:59,Personal,Research Triangle Park,Apex,7.4,Airport/Travel
+10/31/2016 10:35,10/31/2016 10:51,Business,Apex,Cary,5.3,Between Offices
+06/05/2016 20:18,06/05/2016 20:28,Personal,Whitebridge,Whitebridge,2.6,Meeting
+06/19/2016 10:45,06/19/2016 10:53,Business,Whitebridge,Other,3.1,Meal/Entertain
+01/03/2016 06:55,01/03/2016 07:09,Personal,Raleigh,Other,3.3,Meal/Entertain
+07/26/2016 19:25,07/26/2016 20:08,Personal,Unknown Location,Chapel Hill,12.7,Commute
+06/06/2016 08:26,06/06/2016 09:06,Business,Cary,Cary,8.2,Customer Visit
+07/16/2016 11:12,07/16/2016 11:40,Business,Other,Cary,5.8,Airport/Travel
+09/17/2016 21:40,09/17/2016 22:00,Personal,Durham,Cary,4.9,Meeting
+08/05/2016 13:15,08/05/2016 13:30,Business,Garner,Morrisville,3.2,Meeting
+11/19/2016 06:44,11/19/2016 06:57,Business,Other,Other,4.7,Between Offices
+08/21/2016 10:16,08/21/2016 10:23,Personal,Unknown Location,Garner,1.9,Meeting
+01/07/2016 09:49,01/07/2016 09:54,Personal,Morrisville,Garner,1.3,Moving
+07/22/2016 08:33,07/22/2016 09:15,Personal,Whitebridge,Cary,9.0,Customer Visit
+08/06/2016 14:44,08/06/2016 14:54,Business,Durham,Other,2.2,Meeting
+10/27/2016 15:46,10/27/2016 15:59,Business,Garner,Apex,2.8,Meeting
+02/25/2016 17:52,02/25/2016 17:58,Business,Other,Unknown Location,1.5,Meal/Entertain
+12/23/2016 15:00,12/23/2016 16:10,Business,Morrisville,Cary,15.5,Errand/Supplies
+02/19/2016 08:49,02/19/2016 09:08,Business,Other,Unknown Location,5.0,Meal/Entertain
+08/08/2016 11:11,08/08/2016 11:22,Personal,Other,Whitebridge,2.6,Meal/Entertain
+09/06/2016 11:32,09/06/2016 12:11,Business,Garner,Unknown Location,10.9,Between Offices
+04/05/2016 12:03,04/05/2016 12:28,Personal,Raleigh,Other,5.6,Errand/Supplies
+05/12/2016 19:28,05/12/2016 19:45,Business,Unknown Location,Cary,4.3,Customer Visit
+02/10/2016 15:05,02/10/2016 15:13,Business,Morrisville,Raleigh,2.6,Airport/Travel
+01/16/2016 13:30,01/16/2016 13:44,Business,Other,Other,3.2,Meeting
+02/01/2016 14:48,02/01/2016 15:35,Business,Cary,Other,11.4,Meeting
+02/19/2016 12:33,02/19/2016 12:54,Business,Other,Unknown Location,6.2,Errand/Supplies
+05/16/2016 21:30,05/16/2016 21:52,Personal,Raleigh,Cary,5.7,Commute
+07/08/2016 16:20,07/08/2016 16:52,Personal,Whitebridge,Raleigh,6.7,Meeting
+07/12/2016 07:22,07/12/2016 07:57,Business,Other,Raleigh,7.9,Customer Visit
+08/21/2016 18:46,08/21/2016 19:19,Personal,Apex,Other,7.0,Customer Visit
+11/04/2016 09:55,11/04/2016 10:12,Business,Cary,Research Triangle Park,3.5,Between Offices
+07/07/2016 20:39,07/07/2016 21:01,Business,Whitebridge,Whitebridge,4.9,Commute
+07/30/2016 12:00,07/30/2016 13:14,Business,Apex,Durham,15.3,Errand/Supplies
+01/09/2016 17:55,01/09/2016 18:00,Business,Whitebridge,Other,1.2,Meeting
+12/13/2016 20:14,12/13/2016 20:28,Business,Cary,Chapel Hill,4.1,Airport/Travel
+02/11/2016 17:27,02/11/2016 18:16,Personal,Other,Other,10.3,Commute
+12/03/2016 09:46,12/03/2016 09:56,Business,Durham,Durham,2.6,Meal/Entertain
+09/23/2016 22:02,09/23/2016 22:08,Business,Cary,Other,1.5,Customer Visit
+12/10/2016 20:10,12/10/2016 20:52,Personal,Cary,Apex,8.6,Charity
+12/05/2016 13:15,12/05/2016 13:22,Personal,Raleigh,Whitebridge,1.8,Errand/Supplies
+02/24/2016 19:45,02/24/2016 19:50,Personal,Raleigh,Cary,1.1,Moving
+07/15/2016 14:14,07/15/2016 14:35,Business,Raleigh,Whitebridge,5.2,Customer Visit
+12/06/2016 10:59,12/06/2016 11:14,Personal,Whitebridge,Other,3.5,Between Offices
+12/20/2016 16:55,12/20/2016 17:02,Business,Other,Other,1.8,Moving
+02/03/2016 16:24,02/03/2016 17:03,Business,Other,Cary,9.0,Meeting
+11/30/2016 19:51,11/30/2016 19:56,Business,Apex,Other,1.9,Meal/Entertain
+02/14/2016 09:05,02/14/2016 09:14,Business,Morrisville,Cary,2.4,Customer Visit
+02/29/2016 17:08,02/29/2016 17:44,Business,Cary,Morrisville,7.4,Airport/Travel
+01/01/2016 15:03,01/01/2016 15:14,Business,Other,Durham,4.0,Meeting
+08/04/2016 16:49,08/04/2016 16:59,Business,Other,Morrisville,2.5,Errand/Supplies
+09/23/2016 13:06,09/23/2016 13:16,Business,Garner,Other,2.7,Charity
+06/10/2016 10:52,06/10/2016 11:40,Business,Unknown Location,Other,10.5,Errand/Supplies
+12/14/2016 20:09,12/14/2016 20:20,Personal,Apex,Apex,4.1,Charity
+11/02/2016 16:19,11/02/2016 16:32,Business,Morrisville,Morrisville,3.3,Errand/Supplies
+12/27/2016 21:40,12/27/2016 22:05,Personal,Cary,Cary,6.9,Meal/Entertain
+01/31/2016 16:09,01/31/2016 16:29,Personal,Durham,Cary,6.9,Airport/Travel
+12/24/2016 07:59,12/24/2016 08:21,Business,Whitebridge,Cary,7.7,Errand/Supplies
+07/19/2016 15:52,07/19/2016 16:13,Business,Other,Other,4.6,Commute
+10/07/2016 18:21,10/07/2016 18:31,Business,Cary,Cary,2.8,Meeting
+07/19/2016 18:04,07/19/2016 18:15,Business,Other,Durham,3.5,Meal/Entertain
+12/24/2016 18:06,12/24/2016 18:12,Business,Durham,Other,1.5,Meal/Entertain
+01/28/2016 15:29,01/28/2016 15:46,Personal,Morrisville,Whitebridge,4.5,Meal/Entertain
+12/22/2016 21:18,12/22/2016 21:44,Business,Morrisville,Durham,8.6,Commute
+11/29/2016 06:23,11/29/2016 06:43,Personal,Durham,Chapel Hill,5.3,Airport/Travel
+07/11/2016 19:43,07/11/2016 20:17,Business,Durham,Unknown Location,7.1,Errand/Supplies
+07/01/2016 21:11,07/01/2016 21:40,Business,Other,Cary,10.7,Meal/Entertain
+11/28/2016 16:37,11/28/2016 16:45,Business,Whitebridge,Research Triangle Park,2.9,Moving
+05/05/2016 07:07,05/05/2016 07:14,Personal,Whitebridge,Raleigh,1.9,Between Offices
+03/29/2016 18:49,03/29/2016 19:10,Business,Other,Whitebridge,4.9,Between Offices
+08/25/2016 18:17,08/25/2016 18:32,Personal,Durham,Other,4.3,Customer Visit
+03/02/2016 09:05,03/02/2016 09:10,Business,Research Triangle Park,Unknown Location,1.4,Meeting
+04/25/2016 06:37,04/25/2016 06:51,Business,Unknown Location,Morrisville,3.8,Customer Visit
+12/21/2016 09:50,12/21/2016 10:03,Business,Cary,Other,4.0,Meeting
+06/01/2016 10:06,06/01/2016 10:15,Personal,Other,Raleigh,2.3,Meeting
+04/04/2016 18:52,04/04/2016 19:09,Business,Cary,Cary,5.0,Customer Visit
+09/28/2016 21:04,09/28/2016 21:17,Personal,Raleigh,Cary,3.4,Meal/Entertain
+04/16/2016 09:11,04/16/2016 09:43,Personal,Morrisville,Other,7.6,Moving
+10/11/2016 20:51,10/11/2016 20:56,Business,Unknown Location,Other,2.3,Meeting
+04/15/2016 11:05,04/15/2016 11:22,Business,Chapel Hill,Apex,3.8,Meeting
+02/13/2016 09:32,02/13/2016 09:42,Personal,Chapel Hill,Morrisville,2.2,Moving
+08/04/2016 06:15,08/04/2016 06:25,Business,Other,Whitebridge,2.2,Meeting
+05/30/2016 20:08,05/30/2016 20:24,Business,Morrisville,Other,3.9,Errand/Supplies
+06/29/2016 22:13,06/29/2016 22:33,Business,Raleigh,Other,4.9,Customer Visit
+05/01/2016 07:12,05/01/2016 07:18,Business,Durham,Cary,1.5,Errand/Supplies
+03/09/2016 12:37,03/09/2016 12:44,Business,Unknown Location,Morrisville,2.5,Meeting
+02/08/2016 14:16,02/08/2016 14:28,Personal,Other,Raleigh,2.6,Meeting
+08/21/2016 08:16,08/21/2016 08:39,Business,Raleigh,Durham,4.8,Airport/Travel
+10/01/2016 12:04,10/01/2016 12:17,Personal,Other,Morrisville,4.3,Airport/Travel
+12/31/2016 17:36,12/31/2016 17:56,Business,Other,Other,4.6,Customer Visit
+03/24/2016 19:52,03/24/2016 19:59,Business,Raleigh,Other,1.6,Between Offices
+07/13/2016 06:38,07/13/2016 06:44,Business,Raleigh,Whitebridge,1.9,Airport/Travel
+02/26/2016 19:04,02/26/2016 19:10,Business,Whitebridge,Chapel Hill,2.3,Customer Visit
+05/19/2016 10:55,05/19/2016 11:15,Business,Raleigh,Research Triangle Park,6.3,Meeting
+07/12/2016 13:24,07/12/2016 14:13,Business,Other,Whitebridge,11.1,Commute
+03/30/2016 22:46,03/30/2016 23:17,Business,Raleigh,Chapel Hill,7.9,Between Offices

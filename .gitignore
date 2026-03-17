@@ -15,5 +15,5 @@ __pycache__/
 # Large data files (terrorism DB is 155MB — exceeds GitHub limit)
 projects/terrorism/data/globalterrorismdb_utf8.csv
 
-# Exclude old scattered root-level data dirs
-data/
+# Exclude old scattered root-level data dir only
+/data/
