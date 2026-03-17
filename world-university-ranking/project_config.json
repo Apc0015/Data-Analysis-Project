@@ -1,9 +1,9 @@
 {
   "data_sources": [
     {
-      "name": "World University Ranking (placeholder)",
-      "type": "placeholder",
-      "note": "Unzip WUR.zip and add a CSV, then set type to local_csv and path accordingly"
+      "name": "CWUR Data (local)",
+      "type": "local_csv",
+      "path": "world-university-ranking/cwurData.csv"
     }
   ]
 }

@@ -54,7 +54,15 @@ def read_project_config(project_path):
 
 @st.cache_data
 def load_csv(path):
-    return pd.read_csv(path)
+    # try common encodings when reading local CSVs
+    encs = ['utf-8', 'latin1', 'iso-8859-1', 'cp1252']
+    for e in encs:
+        try:
+            return pd.read_csv(path, encoding=e)
+        except Exception:
+            continue
+    # last resort, let pandas infer with errors='replace'
+    return pd.read_csv(path, encoding='utf-8', errors='replace')
 
 
 @st.cache_data

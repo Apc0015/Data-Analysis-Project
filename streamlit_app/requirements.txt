@@ -3,3 +3,4 @@ pandas
 altair
 nbformat
 requests
+yfinance
