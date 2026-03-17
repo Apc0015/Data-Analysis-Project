@@ -1,0 +1,9 @@
+{
+  "data_sources": [
+    {
+      "name": "Global Terrorism DB (local)",
+      "type": "local_csv",
+      "path": "Global-Terrorism-Data-analysis-main/globalterrorismdb_0718dist.csv"
+    }
+  ]
+}

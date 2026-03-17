@@ -1,0 +1,9 @@
+{
+  "data_sources": [
+    {
+      "name": "Adult Census (local)",
+      "type": "local_csv",
+      "path": "demographic-data-analyzer/adult.csv"
+    }
+  ]
+}

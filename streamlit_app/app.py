@@ -4,6 +4,9 @@ import pandas as pd
 import streamlit as st
 import altair as alt
 import numpy as np
+import json
+import io
+import requests
 
 
 def find_projects(base_dir: str):
@@ -38,9 +41,30 @@ def list_files(project_path, exts):
     return sorted(files, key=lambda x: x['name'])
 
 
+def read_project_config(project_path):
+    cfg_json = os.path.join(project_path, 'project_config.json')
+    if os.path.exists(cfg_json):
+        try:
+            with open(cfg_json, 'r', encoding='utf-8') as fh:
+                return json.load(fh)
+        except Exception:
+            return None
+    return None
+
+
 @st.cache_data
 def load_csv(path):
     return pd.read_csv(path)
+
+
+@st.cache_data
+def load_remote_csv(url: str):
+    try:
+        r = requests.get(url, timeout=30)
+        r.raise_for_status()
+        return pd.read_csv(io.StringIO(r.text))
+    except Exception:
+        return pd.DataFrame()
 
 
 def read_readme(project_path):
@@ -91,16 +115,41 @@ def show_project_dashboard(project):
     if desc:
         st.markdown(desc)
 
-    csv_files = list_files(project['path'], ('.csv',))
-    if not csv_files:
-        st.info('No CSV datasets found for this project.')
-        return
+    # Check project config for live data sources
+    cfg = read_project_config(project['path'])
+    datasets = []
+    if cfg and 'data_sources' in cfg:
+        for src in cfg['data_sources']:
+            datasets.append({'name': src.get('name', src.get('path')), 'source': src})
+    else:
+        csv_files = list_files(project['path'], ('.csv',))
+        if not csv_files:
+            st.info('No CSV datasets found for this project.')
+            return
+        datasets = [{'name': f['name'], 'source': {'type': 'local_csv', 'path': f['full']}} for f in csv_files]
 
-    csv_names = [f['name'] for f in csv_files]
-    selected = st.selectbox('Select dataset', csv_names)
-    dataset = next(f for f in csv_files if f['name'] == selected)
+    selected = st.selectbox('Select dataset', [d['name'] for d in datasets])
+    dataset = next(d for d in datasets if d['name'] == selected)
 
-    df = load_csv(dataset['full'])
+    src = dataset['source']
+    df = pd.DataFrame()
+    if src.get('type') == 'remote_csv' and src.get('path'):
+        refresh = int(src.get('refresh_seconds', 300))
+        # use cache with TTL by invalidating key using refresh value
+        @st.cache_data(ttl=refresh)
+        def _load_remote(url):
+            return load_remote_csv(url)
+
+        df = _load_remote(src['path'])
+    elif src.get('type') == 'local_csv' and src.get('path'):
+        df = load_csv(src['path'])
+    else:
+        # fallback: try path or URL
+        path = src.get('path')
+        if path and str(path).lower().startswith('http'):
+            df = load_remote_csv(path)
+        elif path:
+            df = load_csv(path)
     summary = summarize_df(df)
 
     col1, col2, col3 = st.columns(3)

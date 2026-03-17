@@ -1,0 +1,10 @@
+{
+  "data_sources": [
+    {
+      "name": "COVID world (live)",
+      "type": "remote_csv",
+      "path": "https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/latest/owid-covid-latest.csv",
+      "refresh_seconds": 900
+    }
+  ]
+}
