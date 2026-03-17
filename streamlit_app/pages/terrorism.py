@@ -16,7 +16,14 @@ def render():
         df = load_terrorism()
 
     if df.empty:
-        st.error("Could not load terrorism dataset. Make sure the CSV file exists.")
+        st.warning(
+            "**Global Terrorism dataset not available on this deployment.**\n\n"
+            "The GTD CSV is 155 MB and cannot be stored in the GitHub repo. "
+            "To enable this dashboard locally:\n"
+            "1. Download from [Kaggle — Global Terrorism Database](https://www.kaggle.com/datasets/START-UMD/gtd)\n"
+            "2. Place the file at `projects/terrorism/data/globalterrorismdb_utf8.csv`\n"
+            "3. Run `streamlit run streamlit_app/app.py`"
+        )
         return
 
     # ── Sidebar filters ───────────────────────────────────────────────────────

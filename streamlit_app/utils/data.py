@@ -152,12 +152,18 @@ def load_crypto_market_chart(coin_id="bitcoin", days=90):
 # ── Static CSV loaders ────────────────────────────────────────────────────────
 
 def _read_csv(path, **kwargs):
+    import os
+    if not os.path.exists(path):
+        return pd.DataFrame()
     for enc in ["utf-8", "latin1", "iso-8859-1", "cp1252"]:
         try:
             return pd.read_csv(path, encoding=enc, **kwargs)
         except Exception:
             continue
-    return pd.read_csv(path, encoding="utf-8", errors="replace", **kwargs)
+    try:
+        return pd.read_csv(path, encoding="utf-8", errors="replace", **kwargs)
+    except Exception:
+        return pd.DataFrame()
 
 
 @st.cache_data
