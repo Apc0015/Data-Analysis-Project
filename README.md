@@ -2,13 +2,13 @@
 
 A unified Streamlit dashboard combining **7 data analysis projects** with live APIs and static datasets, interactive Plotly charts, and advanced Jupyter notebooks.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://data-analysis-project-apc0015.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://data-analysis-project-afb4kdjxzj4jjsqvfahuzt.streamlit.app/)
 
 ---
 
 ## 🚀 Live Demo
 
-**[https://data-analysis-project-apc0015.streamlit.app](https://data-analysis-project-apc0015.streamlit.app)**
+**[https://data-analysis-project-afb4kdjxzj4jjsqvfahuzt.streamlit.app/](https://data-analysis-project-afb4kdjxzj4jjsqvfahuzt.streamlit.app/)**
 
 ---
 
