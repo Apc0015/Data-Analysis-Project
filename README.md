@@ -1,4 +1,4 @@
-# 📊 DataFlow Analytics — Multi-Project Data Analysis Dashboard
+# 📊 Data Analysis Hub — Multi-Project Dashboard
 
 A unified Streamlit dashboard combining **7 data analysis projects** with live APIs and static datasets, interactive Plotly charts, and advanced Jupyter notebooks.
 

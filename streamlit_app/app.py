@@ -5,7 +5,7 @@ import sys, os
 sys.path.insert(0, os.path.dirname(__file__))
 
 st.set_page_config(
-    page_title="DataFlow Analytics",
+    page_title="Data Analysis Hub",
     page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -26,7 +26,7 @@ h2 { color: #1a1a2e; }
 
 # ── Sidebar navigation ────────────────────────────────────────────────────────
 with st.sidebar:
-    st.markdown("## 📊 DataFlow Analytics")
+    st.markdown("## 📊 Data Analysis Hub")
     st.markdown("---")
     page = st.radio(
         "Navigate",
@@ -48,7 +48,7 @@ with st.sidebar:
 
 # ── Page routing ──────────────────────────────────────────────────────────────
 if page == "🏠 Home":
-    st.title("📊 DataFlow Analytics Platform")
+    st.title("📊 Data Analysis Hub")
     st.markdown(
         "An advanced multi-domain data analysis dashboard. "
         "Select a project from the sidebar to explore."
